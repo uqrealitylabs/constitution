@@ -5,7 +5,7 @@
 
 The Club/Society shall be called "UQ Reality Labs". <!-- we should add an abbrev. here -->
 
-The Club/Society shall be an associated body of the University of Queensland Union in the category of Faculty/Departmental.
+The Club/Society shall be an associated body of the University of Queensland Union in the category of Faculty/Departmental in EAIT.
 
 ## Aims & Objectives
 
