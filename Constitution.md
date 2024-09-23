@@ -77,6 +77,34 @@ The election of officers and other members of the management committee shall tak
 - any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 - in the case of a secret ballot, the assembly will select a returning officer, who shall be responsible for ensuring the orderly running elections.
 
+## Formalised Event and Workshop Planning
+All events and workshops organized by UQ Reality Labs must be approved by the management committee to ensure they align with the club’s mission and objectives. 
+
+### Minimum Planning Requirements for All Events
+For every event, regardless of size, the following minimum planning must be provided to the management committee for approval:
+
+1. **Event Description**: A brief outline of the event, including its purpose and target audience.
+2. **Basic Budget**: An estimation of expenses (e.g., venue, catering, materials) and anticipated funding sources (if any).
+3. **Logistics Overview**: A simple plan addressing the date, time, venue, and any key logistical needs (e.g., equipment, guest speakers).
+4. **Event Promotion**: A short plan for how the event will be promoted to UQRL members and the wider community.
+
+### Additional Planning for Major Events
+For **major events and workshops**, additional detailed planning is required. A **major event or workshop** is defined as any activity that meets one or more of the following criteria:
+
+1. **Involves participation of 20 or more attendees** or includes collaboration with external entities, such as sponsors, industry partners, or university departments.
+2. **Requires a budget** exceeding $200 AUD in total expenses, including but not limited to venue hire, catering, speaker fees, or technical resources.
+3. **Spans multiple days** or is hosted off-campus, requiring logistical coordination such as transportation, accommodation, or external venue management.
+4. **Is a flagship or cornerstone event**, such as thr annual Exhibition Night, or a high-profile workshop series that represents the club on a larger scale within the UQ community or to the public.
+
+In addition to the minimum planning requirements above, major events must also include:
+
+1. **Detailed Objectives**: A clear and articulated outline of the specific goals and intended outcomes of the event or workshop.
+2. **Comprehensive Budget**: A detailed, itemised breakdown of anticipated expenses and revenue, including any sponsorships, ticket sales, or external funding.
+3. **Risk Management Plan**: A plan identifying potential risks (e.g., financial, logistical, or safety) and strategies for mitigating them.
+4. **Expected Outcomes and Metrics for Success**: A focus on the potential benefits for UQ Reality Labs members, alignment with the club’s mission, and how success will be measured (e.g., attendee feedback, engagement levels).
+
+This process ensures that all events, whether routine or major, are structured, approved, and aligned with the club’s overall goals, with major events receiving the additional oversight and planning they require to succeed.
+
 ## Resignation or Removal From Officer of Member of Management Committee
 
 Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Club/Society wher e that member shall be given the opportunity to fully present the member's case.
