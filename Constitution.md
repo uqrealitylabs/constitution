@@ -278,6 +278,6 @@ In the event of the Club/Society being dissolved, the amount that remains after 
 
 The management committee shall provide for the safe custody of books, documents, instruments of title, and securities of the Club/Society.
 
-The financial year of the Club/Society shall close on September 30 in each year.
+The financial year of the Club/Society shall close on August 31st in each year.
 
 The constitution is enacted on this 24th day of October in the year 2022.
