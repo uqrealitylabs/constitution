@@ -32,35 +32,54 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
           ref="${GITHUB_REF_NAME:-${GITHUB_REF##*/}}"
-          echo "$ref" | grep -Eq '^v[0-9]+\.[0-9]+\.[0-9]+([.-].*)?$' || { echo "Tag '$ref' invalid" >&2; exit 1; }
+
+          if ! echo "$ref" | grep -Eq '^v[0-9]+\.[0-9]+\.[0-9]+([.-].*)?$'; then
+            echo "Tag '$ref' invalid" >&2
+            exit 1
+          fi
+
           echo "version=${ref#v}" >> "$GITHUB_OUTPUT"
           printf 'sha=%.12s\n' "${GITHUB_SHA}" >> "$GITHUB_OUTPUT"
-          if [[ "$ref" == *-* ]]; then echo "prerelease=true" >> "$GITHUB_OUTPUT"; else echo "prerelease=false" >> "$GITHUB_OUTPUT"; fi
+
+          if [[ "$ref" == *-* ]]; then
+            echo "prerelease=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "prerelease=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Build PDF and checksum
         id: build
         uses: docker://pandoc/latex:3.5
         with:
           entrypoint: /bin/sh
-          args: -c 'set -e; test -f Constitution.md; OUT="constitution-${{ steps.meta.outputs.version }}.pdf"; pandoc --quiet Constitution.md --from=markdown --pdf-engine=pdflatex -V geometry:margin=1in -M build_tag="v${{ steps.meta.outputs.version }}" -M build_commit="${{ steps.meta.outputs.sha }}" -o "$OUT"; sha256sum "$OUT" | awk "{print \$1}" > "$OUT.sha256"; echo "pdf=$OUT" >> "$GITHUB_OUTPUT"; echo "checksum=$OUT.sha256" >> "$GITHUB_OUTPUT"'
-
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: constitution-${{ steps.meta.outputs.version }}
-          path: |
-            ${{ steps.build.outputs.pdf }}
-            ${{ steps.build.outputs.checksum }}
-          if-no-files-found: error
-          retention-days: 7
+          args: |
+            -c 'set -e
+            test -f Constitution.md
+            OUT="constitution-${{ steps.meta.outputs.version }}.pdf"
+            pandoc --quiet Constitution.md \
+              --from=markdown \
+              --pdf-engine=pdflatex \
+              -V geometry:margin=1in \
+              -M build_tag="v${{ steps.meta.outputs.version }}" \
+              -M build_commit="${{ steps.meta.outputs.sha }}" \
+              -o "$OUT"
+            sha256sum "$OUT" | awk "{print \$1}" > "$OUT.sha256"
+            CHECKSUM="$(cat "$OUT.sha256")"
+            echo "pdf=$OUT" >> "$GITHUB_OUTPUT"
+            echo "checksum=$CHECKSUM" >> "$GITHUB_OUTPUT"'
 
       - name: Release
         uses: softprops/action-gh-release@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          files: |
-            ${{ steps.build.outputs.pdf }}
-            ${{ steps.build.outputs.checksum }}
+          files: ${{ steps.build.outputs.pdf }}
           generate_release_notes: true
           draft: false
           prerelease: ${{ steps.meta.outputs.prerelease }}
+          body: |
+            SHA256 checksum for `${{ steps.build.outputs.pdf }}`:
+
+            `${{ steps.build.outputs.checksum }}`
