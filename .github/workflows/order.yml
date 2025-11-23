@@ -1,0 +1,19 @@
+name: Validate Constitution Numbering
+on:
+  push:
+    paths: [Constitution.md, scripts/numbering.hs]
+  pull_request:
+    paths: [Constitution.md, scripts/numbering.hs]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install GHC
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ghc
+      - name: Build
+        run: ghc -O2 scripts/numbering.hs -o numbering
+      - name: Run
+        run: ./numbering Constitution.md

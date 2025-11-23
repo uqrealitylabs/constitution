@@ -1,0 +1,66 @@
+name: Build & Release Constitution PDF
+
+on:
+  push:
+    tags:
+      - "v*.*.*"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: startsWith(github.ref, 'refs/tags/v')
+    env:
+      PANDOC_DISABLE_TICKER: "1"
+      CI: "1"
+      DEBIAN_FRONTEND: "noninteractive"
+
+    steps:
+      - name: Check out
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 1
+
+      - name: Derive version & short SHA
+        id: meta
+        shell: bash
+        run: |
+          set -euo pipefail
+          ref="${GITHUB_REF_NAME:-${GITHUB_REF##*/}}"
+          echo "$ref" | grep -Eq '^v[0-9]+\.[0-9]+\.[0-9]+([.-].*)?$' || { echo "Tag '$ref' invalid" >&2; exit 1; }
+          echo "version=${ref#v}" >> "$GITHUB_OUTPUT"
+          printf 'sha=%.12s\n' "${GITHUB_SHA}" >> "$GITHUB_OUTPUT"
+          if [[ "$ref" == *-* ]]; then echo "prerelease=true" >> "$GITHUB_OUTPUT"; else echo "prerelease=false" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Build PDF and checksum
+        id: build
+        uses: docker://pandoc/latex:3.5
+        with:
+          entrypoint: /bin/sh
+          args: -c 'set -e; test -f Constitution.md; OUT="constitution-${{ steps.meta.outputs.version }}.pdf"; pandoc --quiet Constitution.md --from=markdown --pdf-engine=pdflatex -V geometry:margin=1in -M build_tag="v${{ steps.meta.outputs.version }}" -M build_commit="${{ steps.meta.outputs.sha }}" -o "$OUT"; sha256sum "$OUT" | awk "{print \$1}" > "$OUT.sha256"; echo "pdf=$OUT" >> "$GITHUB_OUTPUT"; echo "checksum=$OUT.sha256" >> "$GITHUB_OUTPUT"'
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: constitution-${{ steps.meta.outputs.version }}
+          path: |
+            ${{ steps.build.outputs.pdf }}
+            ${{ steps.build.outputs.checksum }}
+          if-no-files-found: error
+          retention-days: 7
+
+      - name: Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            ${{ steps.build.outputs.pdf }}
+            ${{ steps.build.outputs.checksum }}
+          generate_release_notes: true
+          draft: false
+          prerelease: ${{ steps.meta.outputs.prerelease }}
