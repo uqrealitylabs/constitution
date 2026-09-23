@@ -281,3 +281,7 @@ The management committee shall provide for the safe custody of books, documents,
 The financial year of the Club/Society shall close on August 31st in each year.
 
 The constitution is enacted on this 24th day of October in the year 2022.
+
+# Lifelong memberships
+The following names are life members of the society.
+- Masham Siddiqui
