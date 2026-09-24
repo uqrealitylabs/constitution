@@ -62,8 +62,7 @@ The register shall be open for inspection at all reasonable times by any member 
 
 ## Membership of Management Committee
 
-The management committee of the Cub/Society shall consist of a president, secretary, and treasurer, all of whom shall be members of the Club/Society, and such number of other members as the members of the Club/Society at any general meeting may from time to time elect. All
-the aforestated officer bearers must be members of the Union. Membership of the management committee shall not be restricted other than by being a member of the University of Queensland Union.
+The management committee consists of a president, secretary and treasurer and any other members elected at a general meeting. Every committee member must be a member of the Club/Society and the Union. The president, secretary and treasurer must also be currently enrolled students of the University of Queensland.
 
 At the annual general meeting of the Club/Society, all the members of the management committee for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
@@ -76,6 +75,18 @@ The election of officers and other members of the management committee shall tak
 - at the commencement of such meeting, nominations may be taken from the floor.
 - any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 - in the case of a secret ballot, the assembly will select a returning officer, who shall be responsible for ensuring the orderly running elections.
+
+## Duties of Officers
+
+The president shall coordinate the work of the management committee, chair its meetings and general meetings, facilitate communication and the allocation of tasks among committee members, represent the Club/Society in dealings with the Union, the University and external bodies, and prepare a report for the annual general meeting. The president may not commit the Club/Society to an expenditure or obligation without the authority required by these rules.
+
+The secretary shall give the notices required by these rules, coordinate meeting arrangements and committee members' availability for meetings and events, keep minutes of committee and general meetings or arrange for another member to do so, maintain the Club/Society's governance records and register of members, monitor and answer routine correspondence, bring material correspondence to the committee's attention, follow up on the progress of tasks assigned by the committee, and prepare a report for the annual general meeting.
+
+The treasurer shall keep records of receipts, payments and transfers with supporting documents; prepare financial statements and reports required by these rules and the Union; prepare the Club/Society's annual return under Union requirements and any return required of it by the Australian Charities and Not-for-profits Commission; and prepare budgets for proposed events. The treasurer shall review catering plans and may select among options within a budget approved by the management committee. Expenditure remains subject to approval or ratification by the management committee under these rules.
+
+The management committee may assign other duties and portfolios to committee members. Such an assignment does not displace an officer's duties under these rules or confer authority reserved to the committee.
+
+If the secretary cannot act, any two (2) committee members may call a meeting or give notice that these rules require the secretary to call or give, subject to the same notice requirements.
 
 ## Formalised Event and Workshop Planning
 All events and workshops organized by UQ Reality Labs must be approved by the management committee to ensure they align with the club’s mission and objectives. 
@@ -105,9 +116,9 @@ In addition to the minimum planning requirements above, major events must also i
 
 This process ensures that all events, whether routine or major, are structured, approved, and aligned with the club’s overall goals, with major events receiving the additional oversight and planning they require to succeed.
 
-## Resignation or Removal From Officer of Member of Management Committee
+## Resignation or Removal of a Management Committee Member
 
-Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Club/Society wher e that member shall be given the opportunity to fully present the member's case.
+A member of the management committee may resign by written notice to the secretary. If the secretary is resigning or cannot receive the notice, it may be given to the president or another committee member. The resignation takes effect when the notice is received or on a later date stated in it. A committee member may be removed at a general meeting only after being given a full and fair opportunity to present their case. A member whose removal is proposed shall not chair that part of the meeting; the members present shall choose another member to chair it.
 
 The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
 
@@ -115,7 +126,11 @@ There is no right of appeal against member's removal from office under this sect
 
 ## Vacancies on Management Committee
 
-The management committee shall have the power at any time to appoint any member of the Club/Society to fill any casual vacancy on the management committee until the next annual general meeting.
+A position on the management committee becomes vacant if its holder dies, resigns, is removed or ceases to meet the eligibility requirements for that position. Temporary absence does not create a vacancy.
+
+The management committee may appoint an eligible member of the Club/Society to fill a casual vacancy until the next annual general meeting. The secretary, or another committee member if the secretary cannot act, shall record the vacancy and appointment in the committee records and promptly notify the Clubs and Societies Administration Officer of a vacancy in, or appointment to, the office of president, secretary or treasurer.
+
+If an officer is temporarily unable to perform their duties, the management committee may designate another committee member eligible to hold that office to perform those duties until the officer resumes or the position becomes vacant. The designation shall be recorded in the minutes and does not itself transfer the office or any authority requiring separate approval under Union rules or a bank mandate.
 
 The continuing members of the management committee may act notwithstanding any casual vacancy in the management committee. If their number is reduced below the number fixed as necessary for a quorum of the management committee, the continuing member or members may act for the purpose of increasing the number of members of the management committee to that number required to achieve a quorum or by summoning a general meeting of the association, but for no other purpose.
 
@@ -134,11 +149,11 @@ The management committee will take full responsibility for all publications prod
 
 The management committee shall meet at least once every two (2) calendar months to exercise its functions.
 
-The management committee shall be called by the secretary with seven (7) days notice.
+The management committee shall be called by the secretary with seven (7) days' notice.
 
 The secretary and/or their nominee for the meeting must keep an accurate record of resolutions passed at all management committee meetings.
 
-A special meeting of the management committee shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the management committee, which requisition shall clearly state the reasons why such a special meeting is being convened and the nature of the business to be transacted thereat.
+A special meeting of the management committee shall be convened by the secretary on a written requisition signed by not less than one-third (1/3) of the committee members. The requisition shall state the reasons for the meeting and the business to be transacted.
 
 At every meeting of the management committee, a simple majority of 50% of members plus one (1) elected and/or appointed to the management committee as at the close of the last general meeting of the members shall constitute a quorum.
 
@@ -148,11 +163,11 @@ However, questions arising at any meeting of the management committee shall be d
 
 A member of the management committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote, the member's vote shall not be counted.
 
-Not less than fourteen (14) days notice shall be given by the secretary to members of the management committee of any special meeting of the management committee.
+Not less than fourteen (14) days' notice shall be given by the secretary to members of the management committee of any special meeting of the management committee.
 
 Such notice shall clearly state the nature of the business to be discussed thereat.
 
-The president shall preside as chairperson at every meeting of the management committee, or if there is no president or if, at any meeting, the president is not present within ten (10) minutes after the time appointed for holding the meeting, the vice-president shall be chairperson, or if the vice-president is not present at the meeting, the members may choose one (1) of their number to be chairperson of the meeting.
+The president shall chair each management committee meeting. If the president is absent, unable or unwilling to act within ten (10) minutes after the appointed time, the secretary shall chair. If neither can act, the committee members present shall choose one (1) of their number to chair that meeting.
 
 If within half an hour from the time appointed for the commencement of a management committee meeting, a quorum is not present, the meeting, if convened upon the requisition of members of the management committee, shall lapse.
 
@@ -238,7 +253,7 @@ Notice of a general meeting shall clearly state the nature of the business to be
 
 Unless otherwise provided by these rules, at every general meeting:
 
-- The president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the vice-president shall be the chairperson, or if the vice-president is not present or is unwilling to act, then the members present shall elect one (1) of their number to be chairperson of the meeting.
+- The president shall chair the meeting. If the president is absent, unable or unwilling to act within fifteen (15) minutes after the appointed time, the secretary shall chair. If neither can act, the members present shall choose one (1) of their number to chair that meeting.
 - The chairperson shall maintain order and conduct the meeting in a proper and orderly manner.
 - Every question, matter, or resolution shall be decided by a majority of votes of the members present.
 - Every resolution must be minuted.
@@ -277,6 +292,8 @@ In the event of the Club/Society being dissolved, the amount that remains after 
 ## Documents
 
 The management committee shall provide for the safe custody of books, documents, instruments of title, and securities of the Club/Society.
+
+An officer leaving office shall, within fourteen (14) days, deliver the Club/Society's records and property in their possession and cooperate in transferring control of accounts and systems to their successor or another committee member designated by the management committee. The management committee shall record completion of the handover and promptly update authorisations and remove access that is no longer required.
 
 The financial year of the Club/Society shall close on August 31st in each year.
 
