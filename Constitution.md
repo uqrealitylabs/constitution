@@ -128,7 +128,7 @@ Except as otherwise provided by these rules and subject to resolutions of the me
 
 The management committee may exercise all the power of the Club/Society to raise or secure the payment of money in such manner as the members of the Club/Society may think fit and secure the payment or performance of any debt, liability, or other engagement incurred or to be entered into by the Club/Society in any way.
 
-The management committee will take full responsibility for all publications produced by the Club/Society or by any of its members.
+The management committee shall oversee publications issued in the name of the Club/Society.
 
 ## Meetings of Management Committee
 
@@ -274,10 +274,22 @@ Unless otherwise provided by these rules, at every general meeting:
 
 In the event of the Club/Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes that is not carried on for the profit or gain of its individual members.
 
-## Documents
+## Custody and Handover
 
-The management committee shall provide for the safe custody of books, documents, instruments of title, and securities of the Club/Society.
+The management committee shall safeguard the Club/Society's records, instruments of title, securities, keys, equipment, and digital assets. It shall keep a record of their custodians and of who has authority to administer its bank accounts, domains, websites, repositories, email, and social media accounts.
 
-The financial year of the Club/Society shall close on August 31st in each year.
+Within fourteen (14) days after a change in office, the outgoing officeholder shall deliver all Club/Society property and records in their custody and transfer the access needed by their successor or the management committee. The secretary, or another committee member appointed if the secretary cannot act, shall keep a handover record identifying the assets and access transferred, the people involved, the date of transfer, the means of recovering access, and any outstanding items. Passwords and recovery codes shall be transferred securely and shall not appear in the handover record or meeting minutes. The management committee shall promptly address outstanding items and revoke access no longer required by a former officeholder.
 
-The constitution is enacted on this 24th day of October in the year 2022.
+## Rights in Work Created for the Club/Society
+
+The management committee shall secure ownership, for the Club/Society's benefit, of copyright in work created for its activities, including publications, designs, photographs, recordings, software, and event materials. Before commissioning new work, or using work created after this rule takes effect without a prior commission, it shall obtain a written assignment signed by each person who owns or will own the copyright. The assignment shall identify the work and transfer the copyright to the Club/Society if it can hold it in its own name, or to a trustee appointed to hold it for the Club/Society under a written duty to transfer it to a successor trustee when required. It shall identify any pre-existing or third-party material and the Club/Society's right to use that material.
+
+For work created before this rule takes effect, the management committee shall seek equivalent written assignments. Until the rights holder signs an assignment, the Club/Society may use the work only with that holder's permission. This rule does not itself transfer ownership of any work.
+
+## Financial Year
+
+The financial year of the Club/Society shall close on 31 August each year.
+
+## Enactment
+
+The original constitution was enacted on 24 October 2022.
