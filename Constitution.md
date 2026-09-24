@@ -291,5 +291,5 @@ A nominee becomes a life member only when they have accepted in writing and thei
 Life membership does not require a new application or nomination each year. A life member has the same rights and benefits as any other financial member for each year in which the annual membership fee fixed under "Membership Fees" has been paid by or for that person, subject to the other eligibility requirements of these rules. If the fee is unpaid, those rights are suspended until payment, but the person's life membership status continues.
 
 ## Schedule of Life Members
-
+Claudia McPherson, Founder
 - Masham Siddiqui, founder
