@@ -12,6 +12,7 @@ from pathlib import Path
 
 STAGES = ("structure", "drafting", "language", "integrity")
 MARKER = re.compile(r"<!-- constitution-finding:v1:([0-9a-f]{24}) -->")
+UPDATE_MARKER = "<!-- constitution-finding-update:v1:{} -->"
 
 
 def finding_key(code, section, message):
@@ -69,7 +70,9 @@ def issue(code, section, message, locations, repository, commit):
         word = re.search(r"'([^']+)'", message)
         if word:
             point = f"Check whether “{word.group(1)}” is a typo and correct it if needed"
-        title = f"Check a possible typo — {section}"
+            title = f"Check spelling of “{word.group(1)}” — {section}"
+        else:
+            title = f"Check a possible typo — {section}"
     elif code.startswith("REF"):
         target = re.search(r"reference ([0-9(][0-9A-Za-z().-]*)", message)
         if target:
@@ -115,21 +118,63 @@ def gh(endpoint, payload=None, paginate=False):
     return json.loads(result.stdout)
 
 
+def normalized(value):
+    return re.sub(r"[\W_]+", " ", value.casefold()).strip()
+
+
+def similar(existing, title, body):
+    previous = existing.get("body") or ""
+    section = re.search(r"^\*\*Section:\*\* (.+)$", body, re.MULTILINE)
+    previous_section = re.search(r"^\*\*Section:\*\* (.+)$", previous, re.MULTILINE)
+    point = re.search(r"^\*\*Point for review:\*\* (.+)$", body, re.MULTILINE)
+    previous_point = re.search(r"^\*\*Point for review:\*\* (.+)$", previous, re.MULTILINE)
+    if section and previous_section:
+        if normalized(section[1]) != normalized(previous_section[1]):
+            return False
+        if point and previous_point:
+            return normalized(point[1]) == normalized(previous_point[1])
+    return not title.startswith("Check a possible typo") and normalized(existing.get("title") or "") == normalized(title)
+
+
+def update_comment(body):
+    evidence = re.sub(r"/blob/[0-9a-f]{40}/", "/blob/COMMIT/", body)
+    digest = hashlib.sha256(evidence.encode()).hexdigest()[:24]
+    detail = body.split("\n<!-- constitution-finding:v1:", 1)[0].strip()
+    return f"The constitution check found this point in the current text.\n\n{detail}\n\n{UPDATE_MARKER.format(digest)}\n", digest
+
+
 def open_issues(proposals, repository, api=gh, pause=time.sleep):
     pages = api(f"repos/{repository}/issues?state=all&per_page=100", paginate=True)
-    existing = {match for page in pages for item in page if "pull_request" not in item
-                for match in MARKER.findall(item.get("body") or "")}
-    created = 0
+    existing = [item for page in pages for item in page if "pull_request" not in item]
+    created = updated = unchanged = 0
     for title, body, digest in proposals:
-        if digest in existing:
+        match = None
+        for state in ("open", "closed"):
+            candidates = [item for item in existing if item.get("state") == state]
+            match = next((item for item in candidates if digest in MARKER.findall(item.get("body") or "")), None)
+            if match is None:
+                match = next((item for item in candidates if similar(item, title, body)), None)
+            if match is not None:
+                break
+        if match is not None:
+            comment, update_digest = update_comment(body)
+            comments = api(f"repos/{repository}/issues/{match['number']}/comments?per_page=100", paginate=True)
+            if any(UPDATE_MARKER.format(update_digest) in (item.get("body") or "") for page in comments for item in page):
+                unchanged += 1
+                continue
+            if created or updated:
+                pause(1)
+            api(f"repos/{repository}/issues/{match['number']}/comments", {"body": comment})
+            print(f"Updated #{match['number']}: {title}")
+            updated += 1
             continue
-        if created:
+        if created or updated:
             pause(1)
         result = api(f"repos/{repository}/issues", {"title": title, "body": body})
         print(f"Opened #{result['number']}: {title}")
-        existing.add(digest)
+        existing.append({"number": result["number"], "title": title, "body": body, "state": "open"})
         created += 1
-    print(f"{created} issue(s) opened; {len(proposals) - created} already recorded")
+    print(f"{created} issue(s) opened; {updated} updated; {unchanged} already up to date")
     return created
 
 
@@ -166,18 +211,34 @@ def selfcheck():
         assert gh("repos/owner/repo/issues", {"title": "Review", "body": "Text"})["number"] == 1
         assert call.call_args.args[0][-3:] == ["POST", "--input", "-"]
     posted = []
+    comments = []
 
-    def fake_api(_, payload=None, paginate=False):
+    def fake_api(endpoint, payload=None, paginate=False):
         if payload is None:
             assert paginate
-            return [[{"body": item["body"]} for item in posted]]
-        posted.append(payload)
-        return {"number": len(posted)}
+            return [comments] if "/comments?" in endpoint else [posted]
+        if endpoint.endswith("/comments"):
+            comments.append(payload)
+            return {"id": len(comments)}
+        posted.append({**payload, "number": len(posted), "state": "open"})
+        return posted[-1]
 
     proposal = (title, body, digest)
     assert open_issues([proposal], "owner/repo", fake_api, lambda _: None) == 1
     assert open_issues([proposal], "owner/repo", fake_api, lambda _: None) == 0
-    assert len(posted) == 1 and posted[0]["title"] == title
+    assert open_issues([proposal], "owner/repo", fake_api, lambda _: None) == 0
+    assert len(posted) == len(comments) == 1 and posted[0]["title"] == title
+    assert similar(posted[0], title, body)
+    assert not similar({**posted[0], "body": posted[0]["body"].replace("State whether both or either is intended", "Choose one alternative")}, title, body)
+    changed_commit = body.replace("/blob/" + "a" * 40 + "/", "/blob/" + "b" * 40 + "/")
+    assert update_comment(body)[1] == update_comment(changed_commit)[1]
+    posted[:] = [{"number": 7, "state": "open", "title": "Review this provision", "body": body.split("\n<!-- constitution-finding:v1:", 1)[0]}]
+    comments.clear()
+    assert open_issues([proposal], "owner/repo", fake_api, lambda _: None) == 0
+    assert len(posted) == len(comments) == 1
+    first_typo = issue("Constitution.Spelling", "Membership", "Spelling: check 'thr'.", {3}, "owner/repo", "a" * 40)
+    second_typo = issue("Constitution.Spelling", "Membership", "Spelling: check 'wher'.", {3}, "owner/repo", "a" * 40)
+    assert not similar({"title": first_typo[0], "body": first_typo[1]}, second_typo[0], second_typo[1])
     print("Issue self-check: passed")
 
 

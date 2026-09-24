@@ -43,6 +43,10 @@ compile_structure() {
     rm -f -- "$compiled"
     return 1
   fi
+  if ! "$compiled" selfcheck; then
+    rm -f -- "$compiled"
+    return 1
+  fi
   mv -f -- "$compiled" "$structure_bin"
 }
 
@@ -62,7 +66,6 @@ prepare() {
     rm -f -- "$check_dir/$stage.status" "$check_dir/$stage.md" "$check_dir/$stage.log"
   done
   ensure_structure
-  "$structure_bin" selfcheck
   VALE_BIN=$("$root/tools/scripts/prose.sh" prepare)
   export VALE_BIN
   "$root/tools/scripts/prose.sh" selfcheck
@@ -347,7 +350,7 @@ selfcheck() {
 }
 
 usage() {
-  printf 'usage: check prepare|structure|drafting|language|integrity|pdf|summary|all|selfcheck\n' >&2
+  printf 'usage: check prepare|structure|drafting|language|integrity|pdf-needed|pdf|summary|all|selfcheck\n' >&2
   exit 2
 }
 
@@ -357,6 +360,7 @@ case "${1:-}" in
   drafting) [[ "$#" == 1 ]] || usage; run_structure drafting drafting Constitution.md ;;
   language) [[ "$#" == 1 ]] || usage; run_prose language language ;;
   integrity) [[ "$#" == 1 ]] || usage; run_structure integrity integrity Constitution.md ;;
+  pdf-needed) [[ "$#" == 1 ]] || usage; pdf_needed ;;
   pdf) [[ "$#" == 1 ]] || usage; run_pdf ;;
   summary) [[ "$#" == 1 ]] || usage; summary ;;
   all) [[ "$#" == 1 ]] || usage; all ;;

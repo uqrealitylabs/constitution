@@ -10,16 +10,56 @@ on:
 
 permissions:
   contents: read
-  issues: write
 
 concurrency:
   group: checks-${{ github.event.pull_request.number || github.ref }}
   cancel-in-progress: true
 
 jobs:
-  checks:
+  rust:
+    name: ${{ matrix.stage }}
     runs-on: ubuntu-24.04
-    timeout-minutes: 15
+    timeout-minutes: 10
+    strategy:
+      fail-fast: false
+      matrix:
+        stage: [structure, drafting, integrity]
+    env:
+      CHECK_DIR: /tmp/constitution-checks
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - run: ./tools/scripts/check.sh ${{ matrix.stage }}
+      - uses: actions/upload-artifact@v6
+        if: ${{ !cancelled() && github.ref == 'refs/heads/main' }}
+        with:
+          name: constitution-${{ matrix.stage }}
+          path: /tmp/constitution-checks/
+          if-no-files-found: error
+          retention-days: 1
+
+  language:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    env:
+      CHECK_DIR: /tmp/constitution-checks
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - run: ./tools/scripts/prose.sh selfcheck && ./tools/scripts/check.sh language
+      - uses: actions/upload-artifact@v6
+        if: ${{ !cancelled() && github.ref == 'refs/heads/main' }}
+        with:
+          name: constitution-language
+          path: /tmp/constitution-checks/
+          if-no-files-found: error
+          retention-days: 1
+
+  pdf:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
     env:
       CHECK_BASE_SHA: ${{ github.event.pull_request.base.sha }}
       CHECK_BEFORE_SHA: ${{ github.event.before }}
@@ -28,13 +68,33 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      - uses: dtolnay/rust-toolchain@stable
-      - uses: typst-community/setup-typst@v4
+      - id: changed
+        run: |
+          if ./tools/scripts/check.sh pdf-needed; then echo 'needed=true' >> "$GITHUB_OUTPUT"; fi
+      - uses: typst-community/setup-typst@v5
+        if: steps.changed.outputs.needed == 'true'
         with:
           typst-version: 0.15.1
-      - run: ./tools/scripts/check.sh all
-      - name: Open review issues
-        if: ${{ !cancelled() && github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch') }}
+      - run: ./tools/scripts/check.sh pdf
+
+  issues:
+    if: ${{ !cancelled() && github.ref == 'refs/heads/main' }}
+    needs: [rust, language]
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/download-artifact@v7
+        with:
+          pattern: constitution-*
+          merge-multiple: true
+          path: findings
+      - run: python3 .github/workflows/scripts/issues.py
         env:
           GH_TOKEN: ${{ github.token }}
-        run: python3 .github/workflows/scripts/issues.py
+          CHECK_DIR: findings
