@@ -19,17 +19,16 @@ The assets and income of the Club/Society shall be applied solely in furtherance
 
 ## Membership
 
-Membership is open to:
+Subject to the required student proportion, membership is open to:
 - any student of the University of Queensland
 - any University of Queensland academic staff member
 - any other members of the University or wider community interested in Club/Society's activities
 
-The Club/Society shall have not less than
-- thirty (30) financial members in the case of the subsidised club
-- fifteen (15) financial members in the case of a publications club
-- ten (10) financial members in the case of an Ipswich based club
-  
-70% of the Club/Society's membership must be students.
+An eligible person becomes a member when the Club/Society receives that person's annual membership fee. A person whose membership was terminated by the management committee under "Termination of Membership" may rejoin only with that committee's approval and payment of the fee.
+
+The Club/Society shall have at least thirty (30) financial members.
+
+At least 70% of financial members must be students. For this purpose, a student is a person currently enrolled in a course or subject provided by the University of Queensland, as defined by the Union's constitution. The proportion shall be assessed using the membership and enrolment status current at each annual general meeting and whenever a membership list is submitted to, or requested by, the Union. The minimum number of students is rounded up to a whole person. A member's loss of student status does not of itself end membership; the management committee shall promptly take steps to restore the required proportion.
 
 The Club/Society shall not adopt aims or objectives, which would bring it under the jurisdiction of the University of Queensland Sports Association (UQ Sport)
 
@@ -37,7 +36,9 @@ The Club/Society shall not adopt aims or objectives, which would bring it under 
 
 The membership fees shall be such sum, as the members shall from time to time at any general meeting so determine, but shall not be less than two (2) dollars per member per annum.
 
-The membership fees shall be payable upon joining the Club/Society.
+The annual fee is payable on joining and for each renewal. For a person eligible under "Membership", membership and voting rights begin when the Club/Society receives the fee. A fee received in a calendar year keeps membership current until 11:59 pm Brisbane time on the last day of February in the following calendar year, unless membership ends earlier under these rules. This expiry applies equally to fees paid early or late in the calendar year.
+
+A fee received in a later calendar year before the current expiry renews membership without interruption until 11:59 pm Brisbane time on the last day of February in the calendar year after that payment. No renewal fee is due in the same calendar year as the previous payment. If no renewal fee is received before expiry, membership and voting rights end at expiry; a later payment from an eligible person starts a new period of membership from receipt. Only a member whose membership is current is a financial member and may vote or be counted for quorum under these rules. The secretary shall notify each member whose membership is due to expire that February of the expiry date and means of renewal at least fourteen (14) days before the end of February.
 
 ## Termination of Membership
 
@@ -47,16 +48,15 @@ Such resignation shall take effect at the time such notice is received by the se
 
 If a member
 - fails to comply with any of the provisions of these rules,
-- has membership fees in arrears, or
 - conducts himself or herself in a manner considered to be injurious or prejudicial to the character or interests of the Club/Society, 
   
 the management committee shall consider whether the member's membership shall be terminated. The member concerned shall be given a full and fair opportunity of presenting the member's case and if the management committee resolves to terminate the membership it shall instruct the secretary to advise the member in writing accordingly.
 
 ## Register of Members
 
-The management committee shall cause a register to be kept in which shall be entered the name, email and student number of all persons admitted to membership of the Club/Society and the dates of their admission.
+The management committee shall keep a register of every person admitted to membership, recording the person's name, email address, student number (if any), admission date, dates of fee payment and most recent expiry date. The register shall also record the person's student status and the date on which it was last verified.
 
-Particulars shall also be entered into the register of resignations, terminations and reinstatement of membership and any further particulars as the management committee or the members at any general meeting may require from time to time.
+The register shall record each expiry, resignation, termination and readmission, together with any further particulars required by the management committee or the members at a general meeting.
 
 The register shall be open for inspection at all reasonable times by any member who previously applies to the secretary for such inspection and a copy provided for the Clubs and Societies Administration Officer each semester.
 
