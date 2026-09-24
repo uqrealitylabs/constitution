@@ -282,6 +282,14 @@ The financial year of the Club/Society shall close on August 31st in each year.
 
 The constitution is enacted on this 24th day of October in the year 2022.
 
-# Lifelong memberships
+## Lifelong Membership
+
+We define a "Lifelong Member" as a person who is granted the same rights and privileges as a current paid member of the club, forever and with no fees charged to them.
+
+This title is usually granted to recognise committee members who have made lasting contributions to the society and ensure that their hard work is remembered.
+
+The following register of names may be amended through the same process as making constitutional amendments.
+
 The following names are life members of the society.
+
 - Masham Siddiqui
