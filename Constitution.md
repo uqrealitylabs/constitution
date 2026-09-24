@@ -254,21 +254,19 @@ Unless otherwise provided by these rules, at every general meeting:
 - At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
 - In this section, "entitled member" means a member of the Club/Society who is entitled under the rules of the association to vote.
 
-## Funds & Accounts
+## Funds and Accounts
 
-- The funds of the Club/Society must be kept in the name of the Club/Society in the University branch of the Commonwealth Bank. The Club/Society shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
-- Proper books and accounts shall be kept and maintained either in written or printed form in the English language showing correctly the financial affairs of the Club/Society and the particulars usually shown in books of a like nature.
-- All monies shall be deposited into total as soon as practicable after receipt thereof.
-- All amounts shall be paid by checks signed by any two (2) of the president, secretary, treasurer, or other member authorized from time to time by the management committee and/or the Clubs and Societies Administration Officer.
-- Checks shall be crossed "not negotiable".
-- The management committee shall determine the amount of petty cash which shall be kept.
-- All expenditure shall be approved or ratified at a management committee meeting.
-- As soon as practicable after the end of each financial year, the treasurer shall cause to be prepared a statement containing the particulars of:
-    - The income and expenditure for the financial year just ended.
-    - The assets and liabilities at the close of that year.
-- The accounts of the Club/Society must be audited one (1) month prior to the annual general meeting.
-- The auditor must examine the statement prepared by the treasurer and present a report on it to the secretary before the next annual general meeting following the financial year for which the audit was made.
-- The income and property of the Club/Society must be used solely in promoting the Club/Society's objectives and exercising the Club/Society's powers.
+The Club/Society shall hold its funds in an account in its own name at the bank and branch prescribed by the Clubs and Societies Committee. It shall operate no additional account without that committee's prior approval. Money received shall be deposited as soon as practicable.
+
+Among Club/Society members, only the President, Secretary and Treasurer may have authority to access or operate the account. This restriction does not exclude signatories required by Union regulations. No account credential shall be shared, and banking authority shall be updated promptly when an officer leaves or takes office.
+
+The management committee shall approve expenditure before it is incurred. Where prior approval is impracticable and expenditure is necessary to protect people or property or avoid material loss, two disinterested officers named above may authorise it, subject to ratification at the next committee meeting. Every payment shall identify its payee, amount and purpose and require the written approval of two distinct, disinterested officers named above before it is made, in addition to any bank or Union signatory requirements.
+
+A member may be reimbursed for an expense incurred on behalf of the Club/Society only on production of a physical or digital invoice with evidence of payment, or an itemised receipt. If neither is available, two disinterested officers named above may approve an exception in writing on the evidence required by the Finance Policy. A claimant shall not approve or authorise their own reimbursement. Where fewer than two eligible officers are available, payment shall be deferred until two can act.
+
+The Treasurer shall keep accurate records of receipts, payments, supporting documents and approvals. As soon as practicable after the end of each financial year, the Treasurer shall prepare a statement of income and expenditure, assets and liabilities. The accounts shall be audited in time for the auditor's report to be presented at the annual general meeting.
+
+The management committee shall adopt and maintain a Finance Policy by resolution. The policy shall set out the current provider details and procedures for payments, claims, record keeping and account handover, consistently with these rules and Union requirements.
 
 ## Dissolution Clause
 
