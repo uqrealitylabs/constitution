@@ -201,17 +201,14 @@ The following business must be transacted at every annual general meeting:
 - The presenting of the audited statement to the meeting for adoption.
 - The election of members of the management committee.
 - The appointment of an auditor who shall be the nominee of the Union for Clubs/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies.
-- The distribution of awards to recognise the contributions and service of outgoing committee members.
 - The minutes of the annual general meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the meeting.
 - Where there is a tied vote, the issue will be deemed to have been resolved in the negative.
 
-## Recognition and Awards for Service
-At the Annual General Meeting, awards shall be distributed to recognise the contributions and service of outgoing committee members. These awards are to be granted based on:
+## Recognition of Service
 
-1. Their impact and involvement throughout the year.
-2. Dedication to fostering the club’s growth and success.
+Any member may nominate an outgoing member of the management committee for recognition of service by written notice to the secretary. The management committee may grant an honorary award having regard to the nominee's contribution to the Club/Society; no award is required in any year. An award may be announced at the annual general meeting.
 
-The recognition of contributions encourages greater involvement in leadership positions and promotes a culture of appreciation within the club.
+A committee member who is the nominee or has a material personal interest in the nomination shall disclose that interest and take no part in the discussion or vote. The disclosure, abstention and decision shall be minuted. An award shall not include money, a gift or any other material benefit. Any expenditure connected with an award must be approved in advance by the management committee.
 
 ## Special General Meeting
 
