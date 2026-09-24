@@ -105,13 +105,17 @@ In addition to the minimum planning requirements above, major events must also i
 
 This process ensures that all events, whether routine or major, are structured, approved, and aligned with the club’s overall goals, with major events receiving the additional oversight and planning they require to succeed.
 
-## Resignation or Removal From Officer of Member of Management Committee
+## Resignation or Removal of a Management Committee Member
 
-Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Club/Society wher e that member shall be given the opportunity to fully present the member's case.
+A committee member may resign by written notice to the secretary, effective when received or on a later date stated in the notice. If the secretary is resigning or cannot receive the notice, it may be given to the president or another committee member.
 
-The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
+A motion to remove a committee member may be proposed by resolution of the management committee or by a written requisition that meets the requirements for calling a special general meeting. Each proposed removal requires a separate motion. It may be decided only at a general meeting for which members have received at least fourteen (14) days' notice stating the motion and its grounds. The member concerned shall receive written particulars and the substance of the evidence relied upon in time to prepare a response, with personal information protected as required by law or Union policy. New grounds may not be relied upon without fresh notice. If the secretary is the member concerned or cannot act, the president or another committee member not subject to the motion shall perform the secretary's duties under this section.
 
-There is no right of appeal against member's removal from office under this section.
+Before the vote, the member concerned shall be given a reasonable opportunity to respond in writing and to address the meeting, with a support person if they wish. The meeting may proceed if the member does not attend after receiving proper notice. The member concerned shall not chair consideration of the motion; the members present shall choose another member to chair it.
+
+Removal requires affirmative votes from at least 60% of the members present and entitled to vote, with any fraction rounded up to the next whole vote. Abstentions do not count as support. The secretary, or another member appointed by the meeting, shall record the notice, response, attendance, number entitled to vote, votes for and against, and abstentions in the minutes and submit them to the Clubs and Societies Committee for endorsement. Removal takes effect only when that committee endorses it in writing; until then the member remains in office.
+
+Removal from the management committee does not itself terminate membership of the Club/Society. The member may lodge a procedural complaint with the Clubs and Societies Department under Union processes. A complaint is separate from endorsement of the removal decision.
 
 ## Vacancies on Management Committee
 
