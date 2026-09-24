@@ -290,6 +290,6 @@ This title is usually granted to recognise committee members who have made lasti
 
 The following register of names may be amended through the same process as making constitutional amendments.
 
-The following names are life members of the society.
+The following names are lifelong members of the society.
 
 - Masham Siddiqui
