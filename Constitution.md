@@ -7,6 +7,28 @@ The Club/Society shall be called "UQ Reality Labs". <!-- we should add an abbrev
 
 The Club/Society shall be an associated body of the University of Queensland Union in the category of Faculty/Departmental in EAIT.
 
+## Definitions and Interpretation
+
+In these rules:
+
+- **member** means a person who has joined under "Membership" and whose membership has not ended under these rules.
+- **financial member** means a member who has paid all membership fees then due under these rules.
+- **entitled member** means a financial member. Voting entitlement begins when the Club/Society receives the joining fee, is suspended while any fee is overdue and resumes when arrears are paid.
+- **ordinary member** means a member who is not a member of the management committee.
+- **management committee** means the committee constituted under "Membership of Management Committee", including its elected members and members appointed to fill casual vacancies.
+- **subcommittee** means a committee formed under "Delegation of Powers of Management Committee" that may exercise only the powers delegated to it.
+- **Clubs and Societies committee** means the University of Queensland Union's Clubs and Societies Committee.
+- **officer** means a person holding office as president, secretary or treasurer under these rules. A person holding office as vice-president, if any, is also an officer.
+- **present** means attending in person or through a live electronic connection that allows a person to follow the proceedings, participate and, if entitled, vote in real time. A person is not present while a connection failure prevents that participation.
+
+Fee arrears do not of themselves end membership; termination remains subject to "Termination of Membership".
+
+Where these rules require a stated proportion of persons or votes, any fraction is rounded up to the next whole number. Only valid votes cast by persons entitled to vote on the matter are counted. A simple majority requires more than half of those votes.
+
+An abstention is not a vote cast, but the abstaining member remains present for quorum. Where a threshold is expressed as a proportion of members present, members who abstain remain in the count of members present. A member prohibited from voting on a matter remains present for quorum but casts no vote on that matter.
+
+A quorum must be present when a meeting begins and whenever business is transacted. If quorum is lost during proceedings, business shall pause until it is restored. A member represented only by a proxy is not present for quorum.
+
 ## Aims & Objectives
 
 The aims of the Club/Society are:
@@ -24,6 +46,8 @@ Membership is open to:
 - any University of Queensland academic staff member
 - any other members of the University or wider community interested in Club/Society's activities
 
+An eligible person becomes a member when the Club/Society receives the membership fee payable on joining. The date of receipt is the person's date of admission to membership.
+
 The Club/Society shall have not less than
 - thirty (30) financial members in the case of the subsidised club
 - fifteen (15) financial members in the case of a publications club
@@ -37,7 +61,7 @@ The Club/Society shall not adopt aims or objectives, which would bring it under 
 
 The membership fees shall be such sum, as the members shall from time to time at any general meeting so determine, but shall not be less than two (2) dollars per member per annum.
 
-The membership fees shall be payable upon joining the Club/Society.
+The membership fee is payable on joining the Club/Society and on each anniversary of admission. For a member admitted on 29 February, the fee is due on 28 February in a year without that date.
 
 ## Termination of Membership
 
@@ -65,17 +89,25 @@ The register shall be open for inspection at all reasonable times by any member 
 The management committee of the Cub/Society shall consist of a president, secretary, and treasurer, all of whom shall be members of the Club/Society, and such number of other members as the members of the Club/Society at any general meeting may from time to time elect. All
 the aforestated officer bearers must be members of the Union. Membership of the management committee shall not be restricted other than by being a member of the University of Queensland Union.
 
-At the annual general meeting of the Club/Society, all the members of the management committee for the time being shall retire from office, but shall be eligible upon nomination for re-election.
+At each annual general meeting, members of the management committee retire when their successors take office and may stand for re-election. If a meeting is inquorate or no successor is elected for a position, its incumbent remains in office, unless the incumbent resigns, is removed or ceases to be eligible. An incumbent holding over in this way may conduct ordinary administration, meet existing obligations, preserve the Club/Society's assets and arrange a further election, but may make no other new commitment.
 
 The election of officers and other members of the management committee shall take place in the following manner:
 
 - any two (2) members of the Club/Society shall be at liberty to nominate any other member to serve as an officer or other member of the management committee.
-- the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary at least fourteen (14) days before the annual general meeting at which the election is to take place.
-- a list of candidates' names in alphabetical order, with the proposers' and seconders' names, shall be posted in a conspicuous place in the office or usual place of meeting of the Club/Society for at least seven (7) days immediately preceding the annual general meeting.
-- balloting lists shall be prepared (if necessary) containing the names of the candidates in alphabetical order, and each member present at the annual general meeting shall be entitled to vote for any number of such candidates not exceeding the number of vacancies.
+- the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary at least fourteen (14) days before the general meeting at which the election is to take place.
+- a list of candidates' names in alphabetical order, with the proposers' and seconders' names, shall be posted in a conspicuous place in the office or usual place of meeting of the Club/Society for at least seven (7) days immediately preceding that general meeting.
+- balloting lists shall be prepared (if necessary) containing the names of the candidates in alphabetical order.
 - at the commencement of such meeting, nominations may be taken from the floor.
 - any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
-- in the case of a secret ballot, the assembly will select a returning officer, who shall be responsible for ensuring the orderly running elections.
+- the assembly shall select a returning officer to conduct each secret ballot and ensure that every entitled member present, including a member attending electronically, can vote privately in real time.
+
+The elections for president, secretary and treasurer shall be determined separately, as shall the election for any other committee positions taken together. A candidate must be an entitled member when elected and meet the other eligibility requirements of these rules.
+
+Where the number of candidates for an office or group of positions does not exceed the number to be filled, each candidate shall be put separately to a secret ballot offering the choices "elect" and "reopen nominations". Let E be the number of valid votes to elect and R the number to reopen nominations. A candidate is elected only if E is at least one (1) and 3E is at least 5R, equivalent to at least five-eighths (5/8) of valid votes supporting election. Abstentions are excluded from E and R. The returning officer shall announce the totals and result, but shall not disclose any member's choice.
+
+Where candidates outnumber positions, each entitled member present may vote by secret ballot for no more candidates than the number of positions to be filled. Candidates with the highest vote totals are elected, provided each has received at least one (1) vote. A tie affecting the last available position shall be decided by a further secret ballot among the tied candidates; if the tie persists, no successor is elected for that position.
+
+If, after nominations and any ballot at a quorate general meeting, a position has no elected successor, the secretary shall promptly give notice of a further election at a general meeting, and nominations for that position shall reopen.
 
 ## Formalised Event and Workshop Planning
 All events and workshops organized by UQ Reality Labs must be approved by the management committee to ensure they align with the club’s mission and objectives. 
@@ -109,7 +141,7 @@ This process ensures that all events, whether routine or major, are structured, 
 
 Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Club/Society wher e that member shall be given the opportunity to fully present the member's case.
 
-The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
+Removal requires the votes of at least 60% of the entitled members present at that general meeting and must be endorsed by the Clubs and Societies committee.
 
 There is no right of appeal against member's removal from office under this section.
 
@@ -140,11 +172,11 @@ The secretary and/or their nominee for the meeting must keep an accurate record 
 
 A special meeting of the management committee shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the management committee, which requisition shall clearly state the reasons why such a special meeting is being convened and the nature of the business to be transacted thereat.
 
-At every meeting of the management committee, a simple majority of 50% of members plus one (1) elected and/or appointed to the management committee as at the close of the last general meeting of the members shall constitute a quorum.
+At a management committee meeting, a quorum is more than half the number of committee members in office at the close of the most recent general meeting. A vacancy arising after that meeting does not reduce the quorum. Only entitled members of the management committee who are present count towards it.
 
 Subject as previously provided in this section, the management committee may meet together and regulate its proceedings as it thinks fit.
 
-However, questions arising at any meeting of the management committee shall be decided by a majority of votes, and, in the case of equality of votes, the question shall be deemed to be decided in the negative.
+However, questions arising at any meeting of the management committee shall be decided by a majority of votes cast by entitled members of the management committee present, and, in the case of equality of votes, the question shall be deemed to be decided in the negative.
 
 A member of the management committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote, the member's vote shall not be counted.
 
@@ -152,7 +184,7 @@ Not less than fourteen (14) days notice shall be given by the secretary to membe
 
 Such notice shall clearly state the nature of the business to be discussed thereat.
 
-The president shall preside as chairperson at every meeting of the management committee, or if there is no president or if, at any meeting, the president is not present within ten (10) minutes after the time appointed for holding the meeting, the vice-president shall be chairperson, or if the vice-president is not present at the meeting, the members may choose one (1) of their number to be chairperson of the meeting.
+The president shall preside as chairperson at every meeting of the management committee, or if there is no president or if, at any meeting, the president is not present within ten (10) minutes after the time appointed for holding the meeting, the vice-president shall be chairperson, or if the vice-president is not present at the meeting, the entitled members of the management committee present may choose one (1) of their number to be chairperson of the meeting.
 
 If within half an hour from the time appointed for the commencement of a management committee meeting, a quorum is not present, the meeting, if convened upon the requisition of members of the management committee, shall lapse.
 
@@ -166,17 +198,17 @@ Any subcommittee so formed shall, in the exercise of the powers delegated, confo
 
 A subcommittee may elect a chairperson of its meetings.
 
-If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (10) minutes after the time appointed for holding the meeting, the members present may choose one (1) of their number to be chairperson of the meeting.
+If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (10) minutes after the time appointed for holding the meeting, the entitled members of the subcommittee present may choose one (1) of their number to be chairperson of the meeting.
 
 A subcommittee may meet and adjourn as it thinks proper.
 
-Questions arising at any meeting shall be determined by a majority of votes of the members present and, in the case of equality of votes, the questions shall be deemed to be decided in the negative.
+Questions arising at any meeting shall be determined by a majority of votes cast by entitled members of the subcommittee present and, in the case of equality of votes, the questions shall be deemed to be decided in the negative.
 
 ## Resolutions of Management Committee Without Meeting
 
-A minute signed by all the members of the management committee shall be valid and effective as if it had been passed at a meeting of the management committee duly convened and held.
+A minute signed by every management committee member entitled to vote on the matter is valid and effective as if passed at a duly convened meeting, provided the number of signatories is at least the number required for a management committee quorum.
 
-Any such resolution may consist of several documents in like form, each signed by one (1) or more members of the management committee.
+Any such resolution may consist of several documents in like form, each signed by one (1) or more members of the management committee entitled to vote on the matter.
 
 ## First Annual General Meeting
 
@@ -189,7 +221,7 @@ Each subsequent annual general meeting must be held:
 1. at least once each year
 2. within three (3) months after the end of the Club/Society's previous financial year.
 
-The annual general meeting will be held in the month of October each year.
+The annual general meeting shall first be convened in October each year. An inquorate meeting may be reconvened after October in accordance with "Quorum at General Meeting".
 
 ## Business to be Transacted at Annual General Meeting
 
@@ -224,7 +256,9 @@ The secretary shall convene a special general meeting by sending out notice of t
 
 ## Quorum at General Meeting
 
-At any general meeting, the number of members required to constitute a quorum shall be 15 members.
+For a general meeting, n is the number of financial members at the appointed starting time. The required quorum Q is max(3, ⌈min(n/2, 7 + √n)⌉) entitled members present. In this expression, √ denotes the square root, ⌈ ⌉ rounds up to a whole number, min selects the lesser number and max selects the greater. The secretary shall record n and Q in the minutes. For example, n = 10 requires five (5) members present, n = 50 requires fifteen (15), and n = 300 requires twenty-five (25). If n is less than three (3), the quorum remains three (3); the management committee shall promptly inform the Clubs and Societies committee and take steps to restore financial membership.
+
+If a general meeting has no quorum within thirty (30) minutes after its appointed start, or loses quorum for thirty (30) minutes during proceedings, it shall be adjourned. No business may be transacted without quorum. Where that meeting is an annual general meeting, the secretary shall notify the members and the Clubs and Societies Administration Officer within seven (7) days, and give notice of a reconvened annual general meeting to be held within thirty (30) days of the original meeting. The ordinary notice period applies, subject to any longer notice required for particular business. The quorum shall be calculated afresh for the reconvened meeting. If that meeting is also inquorate, the secretary shall promptly notify the members and the Clubs and Societies committee, seek its guidance and arrange another annual general meeting.
 
 ## Notice of General Meeting
 
@@ -238,9 +272,9 @@ Notice of a general meeting shall clearly state the nature of the business to be
 
 Unless otherwise provided by these rules, at every general meeting:
 
-- The president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the vice-president shall be the chairperson, or if the vice-president is not present or is unwilling to act, then the members present shall elect one (1) of their number to be chairperson of the meeting.
+- The president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the vice-president shall be the chairperson, or if the vice-president is not present or is unwilling to act, then the entitled members present shall elect one (1) of their number to be chairperson of the meeting.
 - The chairperson shall maintain order and conduct the meeting in a proper and orderly manner.
-- Every question, matter, or resolution shall be decided by a majority of votes of the members present.
+- Every question, matter, or resolution shall be decided by a majority of votes cast by entitled members present.
 - Every resolution must be minuted.
 
 ## Alteration of Rules
@@ -248,11 +282,10 @@ Unless otherwise provided by these rules, at every general meeting:
 - These rules may be amended or added to from time to time by a special resolution carried at any general meeting.
 - However, any amendment or addition is valid only if it is registered by the president and approved by the Clubs and Societies committee.
 - A special resolution is passed at a meeting if:
-  - Of the entitled members of the Club/Society who vote in person or (if proxies are allowed) by proxy at a meeting, not less than three-quarters (3/4) vote in favor of the resolution, and
+  - Of the entitled members of the Club/Society who vote while present or (if proxies are allowed) by proxy at a meeting, not less than three-quarters (3/4) vote in favor of the resolution, and
   - Any additional requirements of the constitution relating to the passing of a special resolution have been met.
 - A resolution is not to be considered to have been passed as a special resolution under subsection (2) unless not less than twenty-one (21) days notice has been given in accordance with the rules to all of the entitled members of the Club/Society specifying the intention to propose the resolution as a special resolution.
 - At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
-- In this section, "entitled member" means a member of the Club/Society who is entitled under the rules of the association to vote.
 
 ## Funds & Accounts
 
@@ -271,6 +304,8 @@ Unless otherwise provided by these rules, at every general meeting:
 - The income and property of the Club/Society must be used solely in promoting the Club/Society's objectives and exercising the Club/Society's powers.
 
 ## Dissolution Clause
+
+An inquorate meeting, a delayed annual general meeting or an election that leaves a position without an elected successor does not of itself dissolve the Club/Society. Subject to the Union's power to disaffiliate the Club/Society under its rules, voluntary dissolution requires an express special resolution at a general meeting with the quorum required under "Quorum at General Meeting". The notice of meeting shall state the proposed dissolution and the proposed destination of any remaining assets.
 
 In the event of the Club/Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes that is not carried on for the profit or gain of its individual members.
 
