@@ -1,0 +1,34 @@
+name: Checks
+
+on:
+  pull_request:
+    paths: [Constitution.md, 'tools/**', '.github/workflows/**', README.md]
+  push:
+    branches: [main]
+    paths: [Constitution.md, 'tools/**', '.github/workflows/**', README.md]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: checks-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  checks:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 15
+    env:
+      CHECK_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+      CHECK_BEFORE_SHA: ${{ github.event.before }}
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: typst-community/setup-typst@v4
+        with:
+          typst-version: 0.15.1
+      - run: ./tools/scripts/check.sh all

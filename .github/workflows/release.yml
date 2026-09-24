@@ -1,0 +1,36 @@
+name: Release
+
+on:
+  push:
+    tags: ['v*.*.*']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: typst-community/setup-typst@v4
+        with:
+          typst-version: 0.15.1
+      - name: Validate and build
+        run: ./tools/scripts/check.sh all
+      - name: Publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./.github/workflows/scripts/release.sh
+      - name: Laya advisory scan
+        run: bash .github/workflows/scripts/laya.sh
+        timeout-minutes: 8
+        continue-on-error: true
