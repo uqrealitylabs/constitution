@@ -282,14 +282,14 @@ The financial year of the Club/Society shall close on August 31st in each year.
 
 The constitution is enacted on this 24th day of October in the year 2022.
 
-## Lifelong Membership
+## Life Membership
 
-We define a "Lifelong Member" as a person who is granted the same rights and privileges as a current paid member of the club, forever and with no fees charged to them.
+The Club/Society may confer life membership on a person in recognition of exceptional and lasting service to the Club/Society. Any two financial members may nominate a person.
 
-This title is usually granted to recognise committee members who have made lasting contributions to the society and ensure that their hard work is remembered.
+A nominee becomes a life member only when they have accepted in writing and their name is added to the Schedule of Life Members by an amendment made under "Alteration of Rules". The same amendment process applies to removing a name from the Schedule.
 
-The following register of names may be amended through the same process as making constitutional amendments.
+Life membership does not require a new application or nomination each year. A life member has the same rights and benefits as any other financial member for each year in which the annual membership fee fixed under "Membership Fees" has been paid by or for that person, subject to the other eligibility requirements of these rules. If the fee is unpaid, those rights are suspended until payment, but the person's life membership status continues.
 
-The following names are lifelong members of the society.
+## Schedule of Life Members
 
-- Masham Siddiqui
+- Masham Siddiqui, founder
