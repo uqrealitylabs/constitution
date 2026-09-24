@@ -292,4 +292,4 @@ Life membership does not require a new application or nomination each year. A li
 
 ## Schedule of Life Members
 Claudia McPherson, Founder
-- Masham Siddiqui, founder
+Masham Siddiqui, President 2023-2025
