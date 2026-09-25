@@ -282,9 +282,9 @@ Within fourteen (14) days after a change in office, the outgoing officeholder sh
 
 ## Rights in Work Created for the Club/Society
 
-The management committee shall secure ownership, for the Club/Society's benefit, of copyright in work created for its activities, including publications, designs, photographs, recordings, software, and event materials. Before commissioning new work, or using work created after this rule takes effect without a prior commission, it shall obtain a written assignment signed by each person who owns or will own the copyright. The assignment shall identify the work and transfer the copyright to the Club/Society if it can hold it in its own name, or to a trustee appointed to hold it for the Club/Society under a written duty to transfer it to a successor trustee when required. It shall identify any pre-existing or third-party material and the Club/Society's right to use that material.
+The management committee shall ensure that the Club/Society has permission to use, reproduce, adapt and publish work created for its activities, including work made by committee members and other volunteers. Before commissioning work, it shall agree in writing with the creator who will own the copyright and how the Club/Society may use the work. Any assignment of copyright shall be in writing signed by the copyright owner and made to the Club/Society if it can hold it in its own name, or otherwise to a trustee appointed to hold it for the Club/Society. The agreement shall identify any pre-existing or third-party material and the Club/Society's right to use it.
 
-For work created before this rule takes effect, the management committee shall seek equivalent written assignments. Until the rights holder signs an assignment, the Club/Society may use the work only with that holder's permission. This rule does not itself transfer ownership of any work.
+This rule does not itself transfer ownership of any work.
 
 ## Financial Year
 
