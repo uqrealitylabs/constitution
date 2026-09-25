@@ -206,7 +206,7 @@ The following business must be transacted at every annual general meeting:
 
 ## Recognition of Service
 
-Any member may nominate an outgoing member of the management committee for recognition of service by written notice to the secretary. The management committee may grant an honorary award having regard to the nominee's contribution to the Club/Society; no award is required in any year. An award may be announced at the annual general meeting.
+A committee member may be nominated for recognition of service in advance through the secretary or at the annual general meeting. The management committee may grant an honorary award having regard to the nominee's contribution to the Club/Society; no award is required in any year. An award may be announced at the annual general meeting.
 
 A committee member who is the nominee or has a material personal interest in the nomination shall disclose that interest and take no part in the discussion or vote. The disclosure, abstention and decision shall be minuted. An award shall not include money, a gift or any other material benefit. Any expenditure connected with an award must be approved in advance by the management committee.
 
