@@ -62,7 +62,7 @@ The register shall be open for inspection at all reasonable times by any member 
 
 ## Membership of Management Committee
 
-The management committee consists of a president, secretary and treasurer and any other members elected at a general meeting. Every committee member must be a member of the Club/Society and the Union. The president, secretary and treasurer must also be currently enrolled students of the University of Queensland.
+The management committee consists of a president, secretary and treasurer and any other members elected at a general meeting. Every committee member must be a member of the Club/Society. The president, secretary and treasurer must also be currently enrolled students of the University of Queensland.
 
 At the annual general meeting of the Club/Society, all the members of the management committee for the time being shall retire from office, but shall be eligible upon nomination for re-election.
 
@@ -118,9 +118,9 @@ This process ensures that all events, whether routine or major, are structured, 
 
 ## Resignation or Removal of a Management Committee Member
 
-A member of the management committee may resign by written notice to the secretary. If the secretary is resigning or cannot receive the notice, it may be given to the president or another committee member. The resignation takes effect when the notice is received or on a later date stated in it. A committee member may be removed at a general meeting only after being given a full and fair opportunity to present their case. A member whose removal is proposed shall not chair that part of the meeting; the members present shall choose another member to chair it.
+A member of the management committee may resign by written notice to the secretary. If the secretary is resigning or cannot receive the notice, it may be given to the president or another committee member. The resignation takes effect when the notice is received or on a later date stated in it.
 
-The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
+A committee member may be removed at a general meeting only after being given a full and fair opportunity to present their case. The member concerned shall not chair consideration of the motion; the members present shall choose another member to chair it. Removal requires a 60% majority of the members present and must be endorsed by the Clubs and Societies committee.
 
 There is no right of appeal against member's removal from office under this section.
 
