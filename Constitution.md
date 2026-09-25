@@ -256,7 +256,7 @@ Unless otherwise provided by these rules, at every general meeting:
 
 ## Funds and Accounts
 
-The Club/Society shall hold its funds in an account in its own name at the bank and branch prescribed by the Clubs and Societies Committee. It shall operate no additional account without that committee's prior approval. Money received shall be deposited as soon as practicable.
+The Club/Society shall hold its funds in an account in its own name at the bank and branch prescribed by the Clubs and Societies Committee. It shall operate no additional account without that committee's prior approval. Funds received outside that account shall be deposited or transferred into it as soon as practicable.
 
 Among Club/Society members, only the President, Secretary and Treasurer may have authority to access or operate the account. This restriction does not exclude signatories required by Union regulations. No account credential shall be shared, and banking authority shall be updated promptly when an officer leaves or takes office.
 
