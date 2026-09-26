@@ -226,7 +226,7 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 **7.7.1** The secretary shall convene at least two general meetings per semester. Notice of an ordinary general meeting, annual general meeting or special general meeting shall be emailed to each member at the address in the register at least fourteen (14) days before the meeting. If a special resolution is proposed, at least twenty-one (21) days' notice shall be given.
 
-**7.7.2** The notice shall state the date, time, place if any, any electronic access instructions, the business to be considered, and how a member may appoint a proxy. If elections are to be held, it shall identify the positions, their duties, the nomination process and the voting method. It shall include the text and reasons for any proposed special resolution and disclose if the meeting will be recorded. If the secretary is unable or unwilling to act, any two (2) committee members, or a sole continuing member authorised under Vacancies on Management Committee, may give notice and convene the meeting, subject to the same requirements.
+**7.7.2** The notice shall state the date, time, place if any, any electronic access instructions, the business to be considered, and how a member may appoint a proxy. If elections are to be held, it shall identify the positions, their duties, the nomination process and the voting method. It shall include the text and reasons for any proposed special resolution and disclose if the meeting will be recorded. If the secretary is unable or unwilling to act, any two (2) committee members, or a sole continuing member authorised under "Committee Vacancies", may give notice and convene the meeting, subject to the same requirements.
 
 ### 7.8 Procedure at General Meeting
 
