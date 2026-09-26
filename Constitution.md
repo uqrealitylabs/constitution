@@ -118,7 +118,7 @@ the aforestated officer bearers must be members of the Union. Membership of the 
 
 **5.6.3** The secretary shall convene a special meeting on a written requisition signed by not less than one-third (1/3) of the current committee members. The requisition shall state the reasons for the meeting and the business to be considered. Each committee member shall be given at least fourteen (14) days' notice by email stating that business. If the secretary is unable or unwilling to act, any two (2) committee members may convene the meeting on the same terms. Only the business stated in the notice may be decided at a special meeting.
 
-**5.6.4** Quorum is the smallest whole number greater than half the number of committee members in office at the close of the last general meeting. A vacancy arising after that meeting does not reduce quorum. Only entitled committee members who are present count towards quorum.
+**5.6.4** Quorum is the smallest whole number greater than half the number of committee members in office at the close of the last general meeting. A vacancy arising after that meeting does not reduce quorum. Only financial committee members who are present count towards quorum. A committee member who may not vote on a particular matter still counts towards quorum.
 
 **5.6.5** A committee member is present if attending in person or by a live electronic connection that permits the member to follow the proceedings, participate in real time and vote as business occurs, and allows identity and continuing attendance to be verified. Proxy voting is not permitted at a committee meeting.
 
@@ -237,7 +237,7 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 **7.8.1** The president shall chair each general meeting. If the president is absent, unable or unwilling to act within fifteen (15) minutes after the appointed time, the vice-president, if in office and able to act, shall chair. If neither can act, the secretary shall chair; if the secretary also cannot act, the financial members present shall choose one (1) of their number to chair that meeting. The chair shall maintain order and conduct the meeting fairly.
 
-**7.8.2** A financial member is present if attending in person or by a live electronic connection that permits the member to follow the proceedings, participate in real time and vote as business occurs, and allows identity and continuing attendance to be verified in accordance with Union requirements. A financial member present has one (1) vote and may cast a further vote for a member whom they validly represent by proxy. Except where these rules require a higher threshold, a motion passes if more votes are cast for it than against it. Abstentions are not votes cast; a tied motion fails. An election tie is resolved under clause 5.1.6.
+**7.8.2** A financial member is present if attending in person or by a live electronic connection that permits the member to follow the proceedings, participate in real time and vote as business occurs, and allows identity and continuing attendance to be verified in accordance with Union requirements. Subject to any restriction in these rules, a financial member present has one (1) vote and may cast a further vote for a member whom they validly represent by proxy. Except where these rules require a higher threshold, a motion passes if more votes are cast for it than against it. Abstentions are not votes cast; a tied motion fails. An election tie is resolved under clause 5.1.6.
 
 **7.8.3** A financial member may appoint one (1) other financial member as proxy for a specified general meeting by a signed written instrument, including an electronic document, delivered to the secretary or the person convening the meeting before it opens. The instrument may direct how the proxy votes on specified business. The appointment ends if the appointing member attends or revokes it by written notice delivered to the chair before the relevant vote. A person may hold no more than one (1) proxy in addition to their own vote. A proxy holder must attend and vote in real time; the absent appointing member is not present for quorum.
 
@@ -253,7 +253,7 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 **8.2** However, any amendment or addition is valid only if it is registered by the president and approved by the Clubs and Societies committee.
 
-**8.3** A special resolution passes only if at least three-quarters (3/4) of the financial members present or represented by a valid proxy vote in favour and any other requirement of these rules for that resolution has been met. Abstentions are included in the number of financial members present or represented and do not count in favour.
+**8.3** A special resolution passes only if at least three-quarters (3/4) of the financial members entitled to vote on the matter who are present or represented by a valid proxy vote in favour and any other requirement of these rules for that resolution has been met. Abstentions are included in that number and do not count in favour.
 
 **8.4** A special resolution may be considered only if at least twenty-one (21) days' notice has been given to all members with the text of the proposed resolution.
 
