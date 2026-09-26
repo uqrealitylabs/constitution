@@ -24,7 +24,7 @@
 - **(b)** any University of Queensland academic staff member
 - **(c)** any other members of the University or wider community interested in Club/Society's activities
 
-**4.1.2** An eligible person becomes a member when the Club/Society receives that person's annual membership fee. A person whose membership was terminated by the management committee under "Termination of Membership" may rejoin only with that committee's approval and payment of the fee.
+**4.1.2** An eligible person becomes a member when the Club/Society receives that person's annual membership fee. A person whose membership was terminated by the management committee under "Termination of Membership" may rejoin only with that committee's approval and payment of the fee. A decision by the management committee that an applicant is ineligible, or a refusal to approve readmission, is a rejection of a membership application and may be appealed under clauses 4.3.4 to 4.3.7.
 
 **4.1.3** The Club/Society shall have at least thirty (30) financial members.
 
@@ -51,6 +51,14 @@
 - **(b)** conducts himself or herself in a manner considered to be injurious or prejudicial to the character or interests of the Club/Society,
 
 the management committee shall consider whether the member's membership shall be terminated. The member concerned shall be given a full and fair opportunity of presenting the member's case and if the management committee resolves to terminate the membership it shall instruct the secretary to advise the member in writing accordingly.
+
+**4.3.4** If the management committee rejects an application for membership, including a request to rejoin under clause 4.1.2, or resolves to terminate membership under clause 4.3.3, the secretary shall notify the person in writing within seven (7) days. The notice shall state the decision, its reasons, the date it takes effect and the person's right to appeal. A termination shall not take effect before the notice is sent, and an appeal does not suspend it.
+
+**4.3.5** The person may appeal by giving written notice to the secretary, or the committee members acting under clause 4.3.7, within one (1) month after receiving the notice under clause 4.3.4. The secretary shall give notice convening a special general meeting under clause 7.5.1 within fourteen (14) days after receiving the appeal and arrange for the meeting to be held within three (3) months after receipt.
+
+**4.3.6** At the meeting, the appellant and the management committee shall each have a reasonable opportunity to make written submissions and address the members. The appellant may attend and speak even if they are no longer a member, but shall count towards quorum or vote only if otherwise entitled under these rules. The appeal shall be decided by a majority of valid votes cast by members entitled to vote at the meeting; a tied vote upholds the management committee's decision.
+
+**4.3.7** The secretary shall notify the appellant of the result in writing within seven (7) days after the meeting. If the appeal succeeds, admission or reinstatement takes effect on the date of the meeting, or when the applicable membership fee is paid if later. If an application is rejected, any fee paid with it shall be refunded within fourteen (14) days after the appeal period expires without an appeal or the appeal is dismissed. If the secretary cannot act or is the person concerned, any two (2) committee members shall perform the secretary's duties under clauses 4.3.4 to 4.3.7.
 
 ### 4.4 Register of Members
 
