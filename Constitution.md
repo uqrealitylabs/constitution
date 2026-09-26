@@ -90,7 +90,7 @@ the aforestated officer bearers must be members of the Union. Membership of the 
 
 **5.3.5** Removal from the management committee does not itself terminate membership of the Club/Society. The member may lodge a procedural complaint with the Clubs and Societies Department under Union processes. A complaint is separate from endorsement of the removal decision.
 
-**5.3.6** The secretary, or another committee member if the secretary cannot act, shall promptly notify the Clubs and Societies Department of any change to the president, secretary or treasurer after it takes effect, and provide updated officer details and any required meeting records. While the Club/Society is a registered charity, that person shall also notify the Australian Charities and Not-for-profits Commission of changes to its Responsible People, including committee appointments, departures and changes in office, within the period required by law.
+**5.3.6** After a removal takes effect under clause 5.3.4, the secretary, or another committee member if the secretary cannot act, shall promptly notify the Clubs and Societies Department of the removal and provide updated officer details and any required meeting records. While the Club/Society is a registered charity, that person shall also notify the Australian Charities and Not-for-profits Commission of the removed committee member's departure, within the period required by law.
 
 ### 5.4 Committee Vacancies
 
