@@ -17,7 +17,6 @@
 - **(f)** **subcommittee** means a committee formed under "Delegation of Powers" that may exercise only the powers delegated to it.
 - **(g)** **Clubs and Societies committee** means the University of Queensland Union's Clubs and Societies Committee.
 - **(h)** **officer** means a person holding an office established under "Composition and Elections".
-- **(i)** **present** means attending in person or through a live electronic connection that allows a person to follow the proceedings, participate and, if entitled, vote in real time. A person is not present while a connection failure prevents that participation.
 
 **2.2** Where these rules require a stated proportion of persons or votes, any fraction is rounded up to the next whole number. Only valid votes cast by persons entitled to vote on the matter are counted. A simple majority requires more than half of those votes.
 
