@@ -70,7 +70,8 @@ the management committee shall consider whether the member's membership shall be
 
 ### 4.6 Schedule of Life Members
 
-**4.6.1** - **(a)** Claudia McPherson, Founder (2022)
+**4.6.1** The following people are life members:
+- **(a)** Claudia McPherson, Founder (2022)
 - **(b)** Masham Siddiqui, President 2023-2025
 
 ## 5. Management Committee
