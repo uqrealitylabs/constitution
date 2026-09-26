@@ -4,10 +4,41 @@ This policy takes effect when adopted by resolution of the management committee 
 
 ## Approval and planning
 
-- The committee shall appoint one member as Event Lead for each event, including the proposer where appropriate, and record the appointment and any conditions of approval.
-- Before approval, the Event Lead shall provide the event's purpose, audience, expected attendance, date and venue, proposed budget and funding, equipment needs, and principal safety risks and controls. The Event Lead shall obtain any required venue, University or Union approvals before the event proceeds.
-- A detailed plan is required if expected attendance is at least 20, proposed expenditure exceeds $200, the event spans multiple days or is held off campus, an external organisation is involved, or the committee identifies elevated risk. The plan shall include an itemised budget, roles and roster, venue and equipment arrangements, risk controls and an incident contact.
-- The Event Lead shall seek committee approval for a material change to the approved venue, scale, budget or risk before proceeding with that change. Event approval does not override the Constitution's rules for expenditure.
+For each event, the committee shall:
+
+- Appoint one member as Event Lead, including the proposer where appropriate
+- Record the appointment and any conditions of approval
+
+Before approval, the Event Lead shall provide:
+
+- The event's purpose
+- The intended audience
+- Expected attendance
+- The date and venue
+- The proposed budget and funding
+- Equipment needs
+- Principal safety risks and controls
+
+The Event Lead shall obtain any required venue, University or Union approvals before the event proceeds.
+
+A detailed plan is required if any of the following applies:
+
+- Expected attendance is at least 20
+- Proposed expenditure exceeds $200
+- The event spans multiple days
+- The event is held off campus
+- An external organisation is involved
+- The committee identifies elevated risk
+
+The detailed plan shall include:
+
+- An itemised budget
+- Roles and a roster
+- Venue and equipment arrangements
+- Risk controls
+- An incident contact
+
+The Event Lead shall seek committee approval for a material change to the approved venue, scale, budget or risk before proceeding with that change. Event approval does not override the Constitution's rules for expenditure.
 
 ## Equipment
 
