@@ -302,8 +302,6 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 **9.2.1** The management committee shall provide for the safe custody of books, documents, instruments of title, and securities of the Club/Society.
 
-**9.2.2** An officer leaving office shall, within fourteen (14) days, deliver the Club/Society's records and property in their possession and cooperate in transferring control of accounts and systems to their successor or another committee member designated by the management committee. The management committee shall record completion of the handover and promptly update authorisations and remove access that is no longer required.
-
 ### 9.4 Financial Year
 
 **9.4.1** The financial year of the Club/Society shall close on August 31st in each year.
