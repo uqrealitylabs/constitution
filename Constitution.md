@@ -179,14 +179,16 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 ## 7. General Meetings
 
-### 7.1 First Annual General Meeting
+### 7.1 Meetings of Members
 
-**7.1.1** The first annual general meeting must be held within twelve (12) months after the day the Club/Society is fully affiliated.
+**7.1.1** A general meeting is a meeting of the Club/Society's members and is either an annual general meeting or a special general meeting under these rules. A meeting of the management committee under "Committee Meetings" is not a general meeting.
+
+**7.1.2** The first annual general meeting must be held within twelve (12) months after the day the Club/Society is fully affiliated.
 
 ### 7.2 Subsequent Annual General Meetings
 
 **7.2.1** Each subsequent annual general meeting must be held:
-- **(a)** at least once each year
+- **(a)** once each year
 - **(b)** within three (3) months after the end of the Club/Society's previous financial year.
 
 **7.2.2** The annual general meeting shall first be convened in October each year. An inquorate meeting may be reconvened after October in accordance with "Quorum at General Meeting".
@@ -229,19 +231,19 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 ### 7.7 Notice of General Meeting
 
-**7.7.1** The secretary shall convene at least two general meetings per semester. Notice of an ordinary general meeting, annual general meeting or special general meeting shall be emailed to each member at the address in the register at least fourteen (14) days before the meeting. If a special resolution is proposed, at least twenty-one (21) days' notice shall be given.
+**7.7.1** Notice of an annual general meeting or special general meeting shall be emailed to each member at the address in the register at least fourteen (14) days before the meeting. If a special resolution is proposed, at least twenty-one (21) days' notice shall be given.
 
-**7.7.2** The notice shall state the date, time, place if any, any electronic access instructions, the business to be considered, and how a member may appoint a proxy. If elections are to be held, it shall identify the positions, their duties, the nomination process and the voting method. It shall include the text and reasons for any proposed special resolution and disclose if the meeting will be recorded. If the secretary is unable or unwilling to act, any two (2) committee members, or a sole continuing member authorised under "Committee Vacancies", may give notice and convene the meeting, subject to the same requirements.
+**7.7.2** The notice shall state the date, time and physical place of the meeting, any optional electronic access instructions, the business to be considered, and how a member may appoint a proxy. If elections are to be held, it shall identify the positions, their duties, the nomination process and the voting method. It shall include the text and reasons for any proposed special resolution and disclose if the meeting will be recorded. If the secretary is unable or unwilling to act, any two (2) committee members, or a sole continuing member authorised under "Committee Vacancies", may give notice and convene the meeting, subject to the same requirements.
 
 ### 7.8 Procedure at General Meeting
 
 **7.8.1** The president shall chair each general meeting. If the president is absent, unable or unwilling to act within fifteen (15) minutes after the appointed time, the vice-president, if in office and able to act, shall chair. If neither can act, the secretary shall chair; if the secretary also cannot act, the financial members present shall choose one (1) of their number to chair that meeting. The chair shall maintain order and conduct the meeting fairly.
 
-**7.8.2** A financial member is present if attending in person or by a live electronic connection that permits the member to follow the proceedings, participate in real time and vote as business occurs, and allows identity and continuing attendance to be verified in accordance with Union requirements. Subject to any restriction in these rules, a financial member present has one (1) vote and may cast a further vote for a member whom they validly represent by proxy. Except where these rules require a higher threshold, a motion passes if more votes are cast for it than against it. Abstentions are not votes cast; a tied motion fails. An election tie is resolved under clause 5.1.6.
+**7.8.2** A financial member is present at a general meeting only while attending in person. Electronic access may be offered so that members can follow or address the meeting, but it does not make them present for quorum or give them a direct vote. A member who does not attend in person may vote only through a valid proxy under clause 7.8.3. Subject to any restriction in these rules, a financial member present has one (1) vote and may cast a further vote for a member whom they validly represent by proxy. Except where these rules require a higher threshold, a motion passes if more votes are cast for it than against it. Abstentions are not votes cast; a tied motion fails. An election tie is resolved under clause 5.1.6.
 
-**7.8.3** A financial member may appoint one (1) other financial member as proxy for a specified general meeting by a signed written instrument, including an electronic document, delivered to the secretary or the person convening the meeting before it opens. The instrument may direct how the proxy votes on specified business. The appointment ends if the appointing member attends or revokes it by written notice delivered to the chair before the relevant vote. A person may hold no more than one (1) proxy in addition to their own vote. A proxy holder must attend and vote in real time; the absent appointing member is not present for quorum.
+**7.8.3** A financial member may appoint one (1) other financial member as proxy for a specified general meeting by a signed written instrument, including an electronic document, delivered to the secretary or the person convening the meeting before it opens. The instrument may direct how the proxy votes on specified business. The appointment ends if the appointing member attends in person or revokes it by written notice delivered to the chair before the relevant vote. A person may hold no more than one (1) proxy in addition to their own vote. A proxy holder must attend in person and vote during the meeting; the appointing member is not present for quorum unless attending in person.
 
-**7.8.4** The chair shall confirm quorum before business begins and before each vote. If a material connection failure prevents a present member from casting a vote, the chair shall pause that vote for up to thirty (30) minutes. If participation cannot be restored, the vote shall be postponed to another meeting with the required notice. An interrupted vote without a declared result shall be restarted; other business may continue only while quorum remains. A recorded vote remains valid if its voter later disconnects.
+**7.8.4** The chair shall confirm quorum before business begins and before each vote. An interrupted vote without a declared result shall be restarted; other business may continue only while quorum remains. A vote validly cast before a member leaves remains effective.
 
 **7.8.5** If quorum is absent thirty (30) minutes after the appointed start, or is lost during the meeting and not restored within thirty (30) minutes, the meeting shall be adjourned in accordance with clause 7.6.2. No business may be decided while quorum is absent; decisions validly made before quorum was lost remain effective. The person who convened the meeting shall give all members fresh notice of the adjourned meeting, meeting the notice period required for its business.
 
