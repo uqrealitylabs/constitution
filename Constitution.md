@@ -84,8 +84,6 @@ the aforestated officer bearers must be members of the Union. Membership of the 
 
 **5.1.6** Where candidates outnumber positions, each financial member present or represented by a valid proxy may vote by secret ballot for no more candidates than the number of positions to be filled. Candidates with the highest vote totals are elected, provided each has received at least one (1) vote. A tie affecting the last available position among candidates who each received at least one (1) vote shall be decided by a further secret ballot among those candidates. If the tie persists, the returning officer shall draw lots among them in the presence of the meeting to determine who is elected.
 
-**5.1.7** If, after nominations and any ballot at a quorate general meeting, a position other than the optional vice-presidency has no elected successor, the secretary shall promptly give notice of a further election at a general meeting, and nominations for that position shall reopen.
-
 ### 5.3 Resignation or Removal
 
 **5.3.1** Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Club/Society wher e that member shall be given the opportunity to fully present the member's case.
