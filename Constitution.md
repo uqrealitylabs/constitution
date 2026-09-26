@@ -199,7 +199,6 @@ For **major events and workshops**, additional detailed planning is required. A 
 - **(e)** The election of members of the management committee.
 - **(f)** The appointment of an auditor who shall be the nominee of the Union for Clubs/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies.
 - **(g)** The minutes of the annual general meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the meeting.
-- **(h)** Where there is a tied vote, the issue will be deemed to have been resolved in the negative.
 
 ### 7.4 Recognition of Service
 
