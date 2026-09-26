@@ -11,7 +11,7 @@
 **2.1** In these rules:
 - **(a)** **member** means a person who has joined under "Membership" and whose membership has not ended under these rules.
 - **(b)** **financial member** means a member who has paid all membership fees then due under these rules.
-- **(c)** **entitled member** means a financial member. Voting entitlement begins when the Club/Society receives the joining fee, is suspended while any fee is overdue and resumes when arrears are paid.
+- **(c)** **entitled member** means a financial member who is permitted to vote on the matter under these rules.
 - **(d)** **ordinary member** means a member who is not a member of the management committee.
 - **(e)** **management committee** means the committee constituted under "Composition and Elections", including its elected members and members appointed to fill casual vacancies.
 - **(f)** **subcommittee** means a committee formed under "Delegation of Powers" that may exercise only the powers delegated to it.
@@ -19,13 +19,11 @@
 - **(h)** **officer** means a person holding an office established under "Composition and Elections".
 - **(i)** **present** means attending in person or through a live electronic connection that allows a person to follow the proceedings, participate and, if entitled, vote in real time. A person is not present while a connection failure prevents that participation.
 
-**2.2** Fee arrears do not of themselves end membership; termination remains subject to "Termination of Membership".
+**2.2** Where these rules require a stated proportion of persons or votes, any fraction is rounded up to the next whole number. Only valid votes cast by persons entitled to vote on the matter are counted. A simple majority requires more than half of those votes.
 
-**2.3** Where these rules require a stated proportion of persons or votes, any fraction is rounded up to the next whole number. Only valid votes cast by persons entitled to vote on the matter are counted. A simple majority requires more than half of those votes.
+**2.3** An abstention is not a vote cast, but the abstaining member remains present for quorum. Where a threshold is expressed as a proportion of members present, members who abstain remain in the count of members present. A member prohibited from voting on a matter remains present for quorum but casts no vote on that matter.
 
-**2.4** An abstention is not a vote cast, but the abstaining member remains present for quorum. Where a threshold is expressed as a proportion of members present, members who abstain remain in the count of members present. A member prohibited from voting on a matter remains present for quorum but casts no vote on that matter.
-
-**2.5** A quorum must be present when a meeting begins and whenever business is transacted. If quorum is lost during proceedings, business shall pause until it is restored. A member represented only by a proxy is not present for quorum.
+**2.4** A quorum must be present when a meeting begins and whenever business is transacted. If quorum is lost during proceedings, business shall pause until it is restored. A member represented only by a proxy is not present for quorum.
 
 ## 3. Aims and Objectives
 
