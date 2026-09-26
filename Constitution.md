@@ -198,17 +198,13 @@ For **major events and workshops**, additional detailed planning is required. A 
 - **(d)** The presenting of the audited statement to the meeting for adoption.
 - **(e)** The election of members of the management committee.
 - **(f)** The appointment of an auditor who shall be the nominee of the Union for Clubs/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies.
-- **(g)** The distribution of awards to recognise the contributions and service of outgoing committee members.
-- **(h)** The minutes of the annual general meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the meeting.
-- **(i)** Where there is a tied vote, the issue will be deemed to have been resolved in the negative.
+- **(g)** The minutes of the annual general meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the meeting.
 
 ### 7.4 Recognition of Service
 
-**7.4.1** At the Annual General Meeting, awards shall be distributed to recognise the contributions and service of outgoing committee members. These awards are to be granted based on:
-- **(a)** Their impact and involvement throughout the year.
-- **(b)** Dedication to fostering the club’s growth and success.
+**7.4.1** A committee member may be nominated for recognition of service in advance through the secretary or at the annual general meeting. The management committee may grant an honorary award having regard to the nominee's contribution to the Club/Society; no award is required in any year. An award may be announced at the annual general meeting.
 
-**7.4.2** The recognition of contributions encourages greater involvement in leadership positions and promotes a culture of appreciation within the club.
+**7.4.2** A committee member nominated for an award shall take no part in the discussion or vote on that nomination. The abstention and decision shall be minuted. An award shall not include money, a gift or any other material benefit. Any expenditure connected with an award must be approved in advance by the management committee.
 
 ### 7.5 Special General Meeting
 
