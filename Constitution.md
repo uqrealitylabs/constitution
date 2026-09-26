@@ -24,7 +24,7 @@
 - **(b)** any University of Queensland academic staff member
 - **(c)** any other members of the University or wider community interested in Club/Society's activities
 
-**4.1.2** An eligible person becomes a member when the Club/Society receives that person's annual membership fee. A person whose membership was terminated by the management committee under "Termination of Membership" may rejoin only with that committee's approval and payment of the fee. A decision by the management committee that an applicant is ineligible, or a refusal to approve readmission, is a rejection of a membership application and may be appealed under clauses 4.3.4 to 4.3.7.
+**4.1.2** An eligible person becomes a member when the Club/Society receives that person's annual membership fee. The date of receipt is the person's date of admission. A person whose membership was terminated by the management committee under "Termination of Membership" may rejoin only with that committee's approval and payment of the fee. A decision by the management committee that an applicant is ineligible, or a refusal to approve readmission, is a rejection of a membership application and may be appealed under clauses 4.3.4 to 4.3.7.
 
 **4.1.3** The Club/Society shall have at least thirty (30) financial members.
 
