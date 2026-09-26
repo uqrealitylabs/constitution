@@ -356,7 +356,14 @@ usage() {
 
 case "${1:-}" in
   prepare) [[ "$#" == 1 ]] || usage; prepare ;;
-  structure) [[ "$#" == 1 ]] || usage; run_structure structure structure Constitution.md ;;
+  structure)
+    [[ "$#" == 1 ]] || usage
+    if [[ "${CONSTITUTION_ALLOW_GAPS:-false}" == true ]]; then
+      run_structure structure draft-structure Constitution.md
+    else
+      run_structure structure structure Constitution.md
+    fi
+    ;;
   drafting) [[ "$#" == 1 ]] || usage; run_structure drafting drafting Constitution.md ;;
   language) [[ "$#" == 1 ]] || usage; run_prose language language ;;
   integrity) [[ "$#" == 1 ]] || usage; run_structure integrity integrity Constitution.md ;;

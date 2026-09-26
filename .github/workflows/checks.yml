@@ -26,6 +26,7 @@ jobs:
         stage: [structure, drafting, integrity]
     env:
       CHECK_DIR: /tmp/constitution-checks
+      CONSTITUTION_ALLOW_GAPS: ${{ github.event_name == 'pull_request' && github.head_ref != 'final' }}
     steps:
       - uses: actions/checkout@v6
         with:

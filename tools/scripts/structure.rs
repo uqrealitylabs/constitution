@@ -370,6 +370,12 @@ fn update_list(scan: &mut Scan, line: usize, indent: usize, kind: ListKind, numb
 }
 
 fn clause_candidate(text: &str) -> Option<(Result<Clause, &'static str>, &str)> {
+    if let Some(rest) = text.trim_start().strip_prefix("**") {
+        let (token, body) = rest.split_once("**")?;
+        if token.starts_with(|c: char| c.is_ascii_digit()) {
+            return Some((parse_clause(token), body.trim()));
+        }
+    }
     let mut words = text.trim_start().splitn(2, char::is_whitespace);
     let token = words.next()?;
     let first = token.chars().next()?;
@@ -421,7 +427,30 @@ fn scan_document(document: &str) -> Scan {
         if let Some(heading) = parse_heading(&visible) {
             scan.lists.clear();
             match heading {
-                Ok((level, text)) => scan.headings.push(Heading { line, level, text }),
+                Ok((level, text)) => {
+                    if level == 2 || level == 3 {
+                        let token = text.split_whitespace().next().unwrap_or("");
+                        let label = token.strip_suffix('.').unwrap_or(token);
+                        if label.starts_with(|c: char| c.is_ascii_digit()) {
+                            match parse_clause(label) {
+                                Ok(clause) if clause.depth() == level - 1 => {
+                                    scan.clauses.push((line, clause));
+                                }
+                                Ok(_) => scan.diagnostics.push(Diagnostic::error(
+                                    line,
+                                    "NUM006",
+                                    "section label does not match heading level",
+                                )),
+                                Err(message) => scan.diagnostics.push(Diagnostic::error(
+                                    line,
+                                    "NUM006",
+                                    format!("malformed section label: {message}"),
+                                )),
+                            }
+                        }
+                    }
+                    scan.headings.push(Heading { line, level, text });
+                }
                 Err(message) => scan
                     .diagnostics
                     .push(Diagnostic::error(line, "HDR003", message)),
@@ -600,7 +629,7 @@ fn valid_successor(previous: &Clause, current: &Clause) -> bool {
     }
 }
 
-fn structure_diagnostics(scan: &Scan, strict: bool) -> Vec<Diagnostic> {
+fn structure_diagnostics(scan: &Scan, strict: bool, allow_gaps: bool) -> Vec<Diagnostic> {
     let mut findings = scan.diagnostics.clone();
     findings.extend(heading_diagnostics(&scan.headings));
     if scan.clauses.is_empty() {
@@ -643,15 +672,20 @@ fn structure_diagnostics(scan: &Scan, strict: bool) -> Vec<Diagnostic> {
         declared.insert(clause.clone());
         if let Some(previous) = previous_by_parent.insert(parent.clone(), clause.clone()) {
             if !valid_successor(&previous, clause) {
-                findings.push(Diagnostic::error(
-                    *line,
-                    "NUM004",
-                    format!(
-                        "clause {} does not follow {}",
-                        clause.render(),
-                        previous.render()
-                    ),
-                ));
+                let gap = matches!(
+                    (previous.0.last(), clause.0.last()),
+                    (Some(Part::Decimal(a)), Some(Part::Decimal(b))) if *b > a.saturating_add(1)
+                );
+                let message = format!(
+                    "clause {} does not follow {}",
+                    clause.render(),
+                    previous.render()
+                );
+                findings.push(if allow_gaps && gap {
+                    Diagnostic::warning(*line, "NUM004", message)
+                } else {
+                    Diagnostic::error(*line, "NUM004", message)
+                });
             }
         } else if !initial_sibling(parent.as_ref(), clause) {
             findings.push(Diagnostic::error(
@@ -796,7 +830,8 @@ fn reference_diagnostics(scan: &Scan) -> Vec<Diagnostic> {
 fn reference_level_matches(kind: &str, depth: usize) -> bool {
     match kind {
         "section" => depth == 1,
-        "clause" | "subsection" => depth == 2,
+        "clause" => depth >= 2,
+        "subsection" => depth == 2,
         "paragraph" => depth == 3,
         "subparagraph" => depth == 4,
         _ => true,
@@ -854,6 +889,7 @@ fn role_diagnostics(scan: &Scan, all_prose: &str) -> Vec<Diagnostic> {
             let lower = text.to_ascii_lowercase();
             [
                 "consist of",
+                "consists of",
                 "comprise",
                 "composed of",
                 "include the following",
@@ -1235,9 +1271,9 @@ fn read_document(path: &str) -> Result<String, String> {
 fn run(args: &[String]) -> Result<bool, String> {
     match args {
         [command] if command == "selfcheck" => Ok(selfcheck()),
-        [command, path] if command == "structure" => {
+        [command, path] if command == "structure" || command == "draft-structure" => {
             let scan = scan_document(&read_document(path)?);
-            let passed = emit(&structure_diagnostics(&scan, false));
+            let passed = emit(&structure_diagnostics(&scan, false, command == "draft-structure"));
             println!(
                 "STAT\tSTRUCTURE\t0\theadings={};clauses={};ordered-items={}",
                 scan.headings.len(),
@@ -1266,7 +1302,7 @@ fn run(args: &[String]) -> Result<bool, String> {
             Ok(emit(&drafting_diagnostics(&scan)))
         }
         _ => Err(
-            "usage: structure selfcheck | structure structure|drafting|integrity Constitution.md"
+            "usage: structure selfcheck | structure structure|draft-structure|drafting|integrity Constitution.md"
                 .into(),
         ),
     }
@@ -1277,7 +1313,7 @@ fn selfcheck() -> bool {
     let strict =
         "# Title\n\n1 First\n1.1 Child\n1.1(a) Paragraph\n1.1(a)(i) Subparagraph\n2 Second\n";
     let code = |source: &str, strict: bool, wanted: &str| {
-        structure_diagnostics(&scan_document(source), strict)
+        structure_diagnostics(&scan_document(source), strict, false)
             .iter()
             .any(|finding| finding.code == wanted)
     };
@@ -1294,16 +1330,19 @@ fn selfcheck() -> bool {
     };
     let legal_findings = drafting_diagnostics(&scan_document("# Title\nA quorum is 50% plus one and/or appointed members.\nA member may present himself or herself.\nThe officer shall be at liberty to act.\nSubject as previously provided, the committee may meet.\nConduct injurious or prejudicial to the club may be considered.\nReport within a reasonable time.\n"));
     let cases = [
-        ("valid heading hierarchy", !structure_diagnostics(&scan_document(valid), false).iter().any(|f| f.severity == Severity::Error)),
+        ("valid heading hierarchy", !structure_diagnostics(&scan_document(valid), false, false).iter().any(|f| f.severity == Severity::Error)),
         ("heading jump", code("# Title\n### Jump\n", false, "HDR002")),
-        ("valid strict numbering", !structure_diagnostics(&scan_document(strict), true).iter().any(|f| f.severity == Severity::Error)),
+        ("valid strict numbering", !structure_diagnostics(&scan_document(strict), true, false).iter().any(|f| f.severity == Severity::Error)),
+        ("numbered headings and bold clauses", !structure_diagnostics(&scan_document("# Title\n## 1. Name\n**1.1** Rule.\n## 2. Members\n**2.1** Rule.\n"), true, false).iter().any(|f| f.severity == Severity::Error)),
+        ("numbered subsection headings and clauses", !structure_diagnostics(&scan_document("# Title\n## 1. Committee\n### 1.1 Membership\n**1.1.1** Rule.\n### 1.2 Meetings\n**1.2.1** Rule.\n"), true, false).iter().any(|f| f.severity == Severity::Error)),
+        ("draft gaps are warnings", !structure_diagnostics(&scan_document("# Title\n## 1. Name\n**1.1** Rule.\n## 3. Aims\n**3.1** Rule.\n"), false, true).iter().any(|f| f.severity == Severity::Error)),
         ("strict zero clauses", code(valid, true, "NUM001")),
         ("duplicate clause", code("# Title\n1 First\n1 First again\n", true, "NUM002")),
         ("missing parent", code("# Title\n1.1 Orphan\n", true, "NUM003")),
         ("skipped sibling", code("# Title\n1 First\n3 Third\n", true, "NUM004")),
         ("mixed numbering", code("# Title\n1 First\n\n1. List item\n", true, "NUM007")),
-        ("reserved clause", !structure_diagnostics(&scan_document("# Title\n1 [Reserved]\n"), true).iter().any(|f| f.severity == Severity::Error)),
-        ("repealed clause", !structure_diagnostics(&scan_document("# Title\n1 [Repealed]\n"), true).iter().any(|f| f.severity == Severity::Error)),
+        ("reserved clause", !structure_diagnostics(&scan_document("# Title\n1 [Reserved]\n"), true, false).iter().any(|f| f.severity == Severity::Error)),
+        ("repealed clause", !structure_diagnostics(&scan_document("# Title\n1 [Repealed]\n"), true, false).iter().any(|f| f.severity == Severity::Error)),
         ("unresolved reference", integrity_code("# Title\n1 First\n\nSee section 2.\n", "REF001")),
         ("relative references resolve", !reference_diagnostics(&scan_document("# Title\n1 First\n1.1 One\n1.2 Two\n1.2(a) Alpha\n1.2(a)(i) Roman\nSee subsection (2), paragraph (a) and subparagraph (i).\n")).iter().any(|f| f.code.starts_with("REF"))),
         ("relative references preserve inserted sections", !reference_diagnostics(&scan_document("# Title\n1 First\n1A Inserted\n1A.1 One\n1A.2 Two\nSee subsection (2).\n")).iter().any(|f| f.code.starts_with("REF"))),
@@ -1312,13 +1351,14 @@ fn selfcheck() -> bool {
         ("malformed relative subsection", integrity_code("# Title\n1 First\nSee subsection (x).\n", "REF002")),
         ("undefined office", integrity_code("# Title\n## Governance\nThe committee shall consist of a president, secretary, and treasurer.\n## Meetings\nThe vice-president chairs.\n", "ROLE001")),
         ("office definition survives heading changes", !integrity_code("# Title\n## Governance\nThe committee shall consist of a president, secretary, and treasurer.\n", "ROLE001")),
+        ("office composition uses consists", !integrity_code("# Title\n## Governance\nThe committee consists of a president, secretary and treasurer.\n", "ROLE001")),
         ("case variation is not a role change", !integrity_code("# Title\nThe annual general meeting is held. At the Annual General Meeting, members vote.\n", "ROLE002")),
         ("role spelling variation", integrity_code("# Title\nA vice-president may preside. The vice president may vote.\n", "ROLE002")),
         ("matching number", !integrity_code("# Title\nFourteen (14) days.\n", "TEXT001")),
         ("mismatching number", integrity_code("# Title\nFourteen (13) days.\n", "TEXT001")),
         ("inserted section", parse_clause("8A.1") == Ok(Clause(vec![Part::Decimal(8), Part::Alpha('A'), Part::Decimal(1)]))),
         ("hidden clause", code("# Title\n**1a.** Text\n", false, "NUM006")),
-        ("unrecognised strict document", structure_diagnostics(&scan_document("plain text only\n"), true).iter().any(|f| f.severity == Severity::Error)),
+        ("unrecognised strict document", structure_diagnostics(&scan_document("plain text only\n"), true, false).iter().any(|f| f.severity == Severity::Error)),
         ("missing governance topic", integrity_code("# Title\n## Membership\nMembers may join.\n", "GOV001")),
         ("heading alone is not a membership rule", governance_topic("# Title\n## Membership\nRules apply.\n", "membership")),
         ("renamed membership heading", !governance_topic("# Title\n## Participation\nMembership begins on admission.\n", "membership")),
