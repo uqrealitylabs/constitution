@@ -118,7 +118,7 @@ the aforestated officer bearers must be members of the Union. Membership of the 
 
 **5.5.2** The management committee may exercise all the power of the Club/Society to raise or secure the payment of money in such manner as the members of the Club/Society may think fit and secure the payment or performance of any debt, liability, or other engagement incurred or to be entered into by the Club/Society in any way.
 
-**5.5.3** The management committee will take full responsibility for all publications produced by the Club/Society or by any of its members.
+**5.5.3** The management committee shall oversee publications issued in the name of the Club/Society.
 
 ### 5.6 Committee Meetings
 
@@ -268,11 +268,19 @@ the aforestated officer bearers must be members of the Union. Membership of the 
 
 ### 9.2 Custody and Handover
 
-**9.2.1** The management committee shall provide for the safe custody of books, documents, instruments of title, and securities of the Club/Society.
+**9.2.1** The management committee shall safeguard the Club/Society's records, instruments of title, securities, keys, equipment, and digital assets. It shall keep a record of their custodians and of who has authority to administer its bank accounts, domains, websites, repositories, email, and social media accounts.
+
+**9.2.2** Within fourteen (14) days after a change in office, the outgoing officeholder shall deliver all Club/Society property and records in their custody and transfer the access needed by their successor or the management committee. The secretary, or another committee member appointed if the secretary cannot act, shall keep a handover record identifying the assets and access transferred, the people involved, the date of transfer, the means of recovering access, and any outstanding items. Passwords and recovery codes shall be transferred securely and shall not appear in the handover record or meeting minutes. The management committee shall promptly address outstanding items and revoke access no longer required by a former officeholder.
+
+### 9.3 Rights in Work Created for the Club/Society
+
+**9.3.1** The management committee shall ensure that the Club/Society has permission to use, reproduce, adapt and publish work created for its activities, including work made by committee members and other volunteers. Before commissioning work, it shall agree in writing with the creator who will own the copyright and how the Club/Society may use the work. Any assignment of copyright shall be in writing signed by the copyright owner and made to the Club/Society if it can hold it in its own name, or otherwise to a trustee appointed to hold it for the Club/Society. The agreement shall identify any pre-existing or third-party material and the Club/Society's right to use it.
+
+**9.3.2** This rule does not itself transfer ownership of any work.
 
 ### 9.4 Financial Year
 
-**9.4.1** The financial year of the Club/Society shall close on August 31st in each year.
+**9.4.1** The financial year of the Club/Society shall close on 31 August each year.
 
 ## 10. Dissolution
 
@@ -280,4 +288,4 @@ the aforestated officer bearers must be members of the Union. Membership of the 
 
 ## 11. Enactment
 
-**11.1** The constitution is enacted on this 24th day of October in the year 2022.
+**11.1** The original constitution was enacted on 24 October 2022.
