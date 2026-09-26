@@ -181,7 +181,7 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 ### 7.1 Meetings of Members
 
-**7.1.1** A general meeting is a meeting of the Club/Society's members and is either an annual general meeting or a special general meeting under these rules. A meeting of the management committee under "Committee Meetings" is not a general meeting.
+**7.1.1** A general meeting is a meeting of the Club/Society's members and is either an annual general meeting or a special general meeting under these rules. A meeting of the management committee under "Committee Meetings" is not a general meeting. For the purposes of these meeting rules, a financial member is a member whose membership fee currently due has been paid.
 
 **7.1.2** The first annual general meeting must be held within twelve (12) months after the day the Club/Society is fully affiliated.
 
@@ -225,7 +225,7 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 ### 7.6 Quorum at General Meeting
 
-**7.6.1** For a general meeting, n is the number of financial members at the appointed starting time. The required quorum Q is max(3, ⌈min(n/2, 7 + √n)⌉) financial members present. In this expression, √ denotes the square root, ⌈ ⌉ rounds up to a whole number, min selects the lesser number and max selects the greater. The secretary shall record n and Q in the minutes. For example, n = 10 requires five (5) members present, n = 50 requires fifteen (15), and n = 300 requires twenty-five (25). If n is less than three (3), the quorum remains three (3); the management committee shall promptly inform the Clubs and Societies committee and take steps to restore financial membership.
+**7.6.1** For a general meeting, n is the number of financial members at the appointed starting time. The required quorum Q is max(3, ⌈min(n/2, 7 + √n)⌉) financial members present. In this expression, √ denotes the square root, ⌈ ⌉ rounds up to a whole number, min selects the lesser number and max selects the greater. The secretary shall record n and Q in the minutes. For example, n = 10 requires five (5) members present, n = 50 requires fifteen (15), and n = 300 requires twenty-five (25). If n is less than three (3), no general meeting can attain quorum or decide business. The limited authority of continuing committee members under "Committee Vacancies" does not reduce that quorum. Any continuing committee member shall promptly inform the Clubs and Societies Committee and seek its guidance on restoring financial membership and filling vacant offices.
 
 **7.6.2** If a general meeting has no quorum within thirty (30) minutes after its appointed start, or loses quorum for thirty (30) minutes during proceedings, it shall be adjourned. No business may be transacted without quorum. Where that meeting is an annual general meeting, the secretary shall notify the members and the Clubs and Societies Administration Officer within seven (7) days, and give notice of a reconvened annual general meeting to be held within thirty (30) days of the original meeting. The ordinary notice period applies, subject to any longer notice required for particular business. The quorum shall be calculated afresh for the reconvened meeting. If that meeting is also inquorate, the secretary shall promptly notify the members and the Clubs and Societies committee, seek its guidance and arrange another annual general meeting.
 
