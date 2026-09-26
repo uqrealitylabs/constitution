@@ -64,9 +64,9 @@ the management committee shall consider whether the member's membership shall be
 
 ### 5.1 Composition and Elections
 
-**5.1.1** The management committee consists of a president, secretary and treasurer and any other members elected at a general meeting. Every committee member must be a member of the Club/Society. The president, secretary and treasurer must also be currently enrolled students of the University of Queensland.
+**5.1.1** The management committee consists of a president, secretary and treasurer and any other members elected at a general meeting. The members may elect one (1) vice-president as an additional committee office. Every committee member must be a member of the Club/Society. The president, secretary and treasurer must also be currently enrolled students of the University of Queensland.
 
-**5.1.2** At the annual general meeting of the Club/Society, all the members of the management committee for the time being shall retire from office, but shall be eligible upon nomination for re-election.
+**5.1.2** At each annual general meeting, members of the management committee retire when their successors take office and may stand for re-election. If a meeting is inquorate or no successor is elected for a position, its incumbent remains in office, unless the incumbent resigns, is removed or ceases to be eligible. This holdover rule does not apply to the optional vice-presidency after a quorate annual general meeting: if no vice-president is elected, that office ends when the meeting closes. An incumbent holding over in any other position may conduct ordinary administration, meet existing obligations, preserve the Club/Society's assets and arrange a further election, but may make no other new commitment.
 
 **5.1.3** The election of officers and other members of the management committee shall take place in the following manner:
 - **(a)** any two (2) members of the Club/Society shall be at liberty to nominate any other member to serve as an officer or other member of the management committee.
@@ -81,19 +81,21 @@ the management committee shall consider whether the member's membership shall be
 
 **5.2.1** The president shall coordinate the work of the management committee, chair its meetings and general meetings, facilitate communication and the allocation of tasks among committee members, represent the Club/Society in dealings with the Union, the University and external bodies, and prepare a report for the annual general meeting. The president may not commit the Club/Society to an expenditure or obligation without the authority required by these rules.
 
-**5.2.2** The secretary shall give the notices required by these rules, coordinate meeting arrangements and committee members' availability for meetings and events, keep minutes of committee and general meetings or arrange for another member to do so, maintain the Club/Society's governance records and register of members, monitor and answer routine correspondence, bring material correspondence to the committee's attention, follow up on the progress of tasks assigned by the committee, and prepare a report for the annual general meeting.
+**5.2.2** If elected, the vice-president shall assist the president in coordinating the work of the management committee and chair meetings when required under these rules. Acting as chair does not of itself confer any other power reserved to the president.
 
-**5.2.3** The treasurer shall keep records of receipts, payments and transfers with supporting documents; prepare financial statements and reports required by these rules and the Union; prepare the Club/Society's annual return under Union requirements and any return required of it by the Australian Charities and Not-for-profits Commission; and prepare budgets for proposed events. The treasurer shall review catering plans and may select among options within a budget approved by the management committee. Expenditure remains subject to approval or ratification by the management committee under these rules.
+**5.2.3** The secretary shall give the notices required by these rules, coordinate meeting arrangements and committee members' availability for meetings and events, keep minutes of committee and general meetings or arrange for another member to do so, maintain the Club/Society's governance records and register of members, monitor and answer routine correspondence, bring material correspondence to the committee's attention, follow up on the progress of tasks assigned by the committee, and prepare a report for the annual general meeting.
 
-**5.2.4** The management committee may assign other duties and portfolios to committee members. Such an assignment does not displace an officer's duties under these rules or confer authority reserved to the committee.
+**5.2.4** The treasurer shall keep records of receipts, payments and transfers with supporting documents; prepare financial statements and reports required by these rules and the Union; prepare the Club/Society's annual return under Union requirements and any return required of it by the Australian Charities and Not-for-profits Commission; and prepare budgets for proposed events. The treasurer shall review catering plans and may select among options within a budget approved by the management committee. Expenditure remains subject to approval or ratification by the management committee under these rules.
 
-**5.2.5** If the secretary cannot act, any two (2) committee members may call a meeting or give notice that these rules require the secretary to call or give, subject to the same notice requirements.
+**5.2.5** The management committee may assign other duties and portfolios to committee members. Such an assignment does not displace an officer's duties under these rules or confer authority reserved to the committee.
+
+**5.2.6** If the secretary cannot act, any two (2) committee members may call a meeting or give notice that these rules require the secretary to call or give, subject to the same notice requirements.
 
 ### 5.3 Resignation or Removal
 
-**5.3.1** A member of the management committee may resign by written notice to the secretary. If the secretary is resigning or cannot receive the notice, it may be given to the president or another committee member. The resignation takes effect when the notice is received or on a later date stated in it.
+**5.3.1** Any member of the management committee may resign from membership of the management committee at any time by giving notice in writing to the secretary but such resignation shall take effect at the time such notice is received by the secretary unless a later date is specified in the notice when it shall take effect on that later date or such member may be removed from office at a general meeting of the Club/Society wher e that member shall be given the opportunity to fully present the member's case.
 
-**5.3.2** A committee member may be removed at a general meeting only after being given a full and fair opportunity to present their case. The member concerned shall not chair consideration of the motion; the members present shall choose another member to chair it. Removal requires a 60% majority of the members present and must be endorsed by the Clubs and Societies committee.
+**5.3.2** The question of removal shall be determined by a vote of 60% majority of the members present at such a general meeting and must be endorsed by the Clubs and Societies committee.
 
 **5.3.3** There is no right of appeal against member's removal from office under this section.
 
@@ -121,11 +123,11 @@ the management committee shall consider whether the member's membership shall be
 
 **5.6.1** The management committee shall meet at least once every two (2) calendar months to exercise its functions.
 
-**5.6.2** The management committee shall be called by the secretary with seven (7) days' notice.
+**5.6.2** The management committee shall be called by the secretary with seven (7) days notice.
 
 **5.6.3** The secretary and/or their nominee for the meeting must keep an accurate record of resolutions passed at all management committee meetings.
 
-**5.6.4** A special meeting of the management committee shall be convened by the secretary on a written requisition signed by not less than one-third (1/3) of the committee members. The requisition shall state the reasons for the meeting and the business to be transacted.
+**5.6.4** A special meeting of the management committee shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the management committee, which requisition shall clearly state the reasons why such a special meeting is being convened and the nature of the business to be transacted thereat.
 
 **5.6.5** At every meeting of the management committee, a simple majority of 50% of members plus one (1) elected and/or appointed to the management committee as at the close of the last general meeting of the members shall constitute a quorum.
 
@@ -135,11 +137,11 @@ the management committee shall consider whether the member's membership shall be
 
 **5.6.8** A member of the management committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote, the member's vote shall not be counted.
 
-**5.6.9** Not less than fourteen (14) days' notice shall be given by the secretary to members of the management committee of any special meeting of the management committee.
+**5.6.9** Not less than fourteen (14) days notice shall be given by the secretary to members of the management committee of any special meeting of the management committee.
 
 **5.6.10** Such notice shall clearly state the nature of the business to be discussed thereat.
 
-**5.6.11** The president shall chair each management committee meeting. If the president is absent, unable or unwilling to act within ten (10) minutes after the appointed time, the secretary shall chair. If neither can act, the committee members present shall choose one (1) of their number to chair that meeting.
+**5.6.11** The president shall preside as chairperson at every meeting of the management committee, or if there is no president or if, at any meeting, the president is not present within ten (10) minutes after the time appointed for holding the meeting, the vice-president shall be chairperson, or if the vice-president is not present at the meeting, the members may choose one (1) of their number to be chairperson of the meeting.
 
 **5.6.12** If within half an hour from the time appointed for the commencement of a management committee meeting, a quorum is not present, the meeting, if convened upon the requisition of members of the management committee, shall lapse.
 
@@ -249,7 +251,7 @@ For **major events and workshops**, additional detailed planning is required. A 
 ### 7.8 Procedure at General Meeting
 
 **7.8.1** Unless otherwise provided by these rules, at every general meeting:
-- **(a)** The president shall chair the meeting. If the president is absent, unable or unwilling to act within fifteen (15) minutes after the appointed time, the secretary shall chair. If neither can act, the members present shall choose one (1) of their number to chair that meeting.
+- **(a)** The president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the vice-president shall be the chairperson, or if the vice-president is not present or is unwilling to act, then the members present shall elect one (1) of their number to be chairperson of the meeting.
 - **(b)** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner.
 - **(c)** Every question, matter, or resolution shall be decided by a majority of votes of the members present.
 - **(d)** Every resolution must be minuted.
