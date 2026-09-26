@@ -66,7 +66,7 @@ the management committee shall consider whether the member's membership shall be
 
 **5.1.1** The management committee consists of a president, secretary and treasurer and any other members elected at a general meeting. The members may elect one (1) vice-president as an additional committee office. Every committee member must be a member of the Club/Society. The president, secretary and treasurer must also be currently enrolled students of the University of Queensland.
 
-**5.1.2** At each annual general meeting, members of the management committee retire when their successors take office and may stand for re-election. If a meeting is inquorate or no successor is elected for a position, its incumbent remains in office, unless the incumbent resigns, is removed or ceases to be eligible. This holdover rule does not apply to the optional vice-presidency after a quorate annual general meeting: if no vice-president is elected, that office ends when the meeting closes. An incumbent holding over in any other position may conduct ordinary administration, meet existing obligations, preserve the Club/Society's assets and arrange a further election, but may make no other new commitment.
+**5.1.2** At a quorate annual general meeting, all committee members retire immediately before voting begins for the new committee and may stand for re-election. Despite that retirement, if no successor is elected to the office of president, secretary or treasurer, the outgoing officer may continue temporarily if willing and eligible, solely to carry out necessary administration, preserve the Club/Society's assets and act on guidance sought under clause 5.1.7. That temporary service ends when a successor takes office or the Clubs and Societies Committee directs otherwise. If the meeting is inquorate, the existing committee remains in office until an election can be held at a quorate meeting.
 
 **5.1.3** The election of officers and other members of the management committee shall take place in the following manner:
 - **(a)** any two (2) members of the Club/Society shall be at liberty to nominate any other member to serve as an officer or other member of the management committee.
@@ -76,6 +76,10 @@ the management committee shall consider whether the member's membership shall be
 - **(e)** at the commencement of such meeting, nominations may be taken from the floor.
 - **(f)** any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 - **(g)** in the case of a secret ballot, the assembly will select a returning officer, who shall be responsible for ensuring the orderly running elections.
+
+**5.1.7** If no successor is elected to the office of president, secretary or treasurer at a quorate annual general meeting, the chair shall promptly notify the Clubs and Societies Committee and seek its guidance. If it requires an election at a special general meeting, nominations for the unfilled office shall reopen and the meeting shall be convened under these rules.
+
+**5.1.8** The secretary, or another committee member if the secretary cannot act, shall promptly notify the Clubs and Societies Department of the result of each election to the offices of president, secretary and treasurer and provide updated officer details and any required meeting records. While the Club/Society is a registered charity, that person shall also notify the Australian Charities and Not-for-profits Commission of committee appointments, departures and changes in office resulting from the election, within the period required by law.
 
 ### 5.2 Duties of Officers
 
@@ -103,7 +107,7 @@ the management committee shall consider whether the member's membership shall be
 
 **5.4.1** A position on the management committee becomes vacant if its holder dies, resigns, is removed or ceases to meet the eligibility requirements for that position. Temporary absence does not create a vacancy.
 
-**5.4.2** The management committee may appoint an eligible member of the Club/Society to fill a casual vacancy until the next annual general meeting. The secretary, or another committee member if the secretary cannot act, shall record the vacancy and appointment in the committee records and promptly notify the Clubs and Societies Administration Officer of a vacancy in, or appointment to, the office of president, secretary or treasurer.
+**5.4.2** The management committee may appoint an eligible member of the Club/Society to fill a casual vacancy until the next annual general meeting. The secretary, or another committee member if the secretary cannot act, shall record the vacancy and appointment in the committee records and promptly notify the Clubs and Societies Department of a vacancy in, or casual appointment to, the office of president, secretary or treasurer arising outside an election or removal. While the Club/Society is a registered charity, that person shall also notify the Australian Charities and Not-for-profits Commission of any committee member's departure or appointment arising under this section, within the period required by law.
 
 **5.4.3** If an officer is temporarily unable to perform their duties, the management committee may designate another committee member eligible to hold that office to perform those duties until the officer resumes or the position becomes vacant. The designation shall be recorded in the minutes and does not itself transfer the office or any authority requiring separate approval under Union rules or a bank mandate.
 
