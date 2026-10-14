@@ -311,29 +311,17 @@ the management committee shall consider whether the member's membership shall be
 
 ### 9.1 Funds and Accounts
 
-**9.1.1** The funds of the Club/Society must be kept in the name of the Club/Society in the University branch of the Commonwealth Bank. The Club/Society shall operate one (1) account only. Exceptions to this can only occur with the specific approval of the Clubs and Societies committee.
+**9.1.1** The Club/Society shall hold its funds in an account in its own name at the bank and branch prescribed by the Clubs and Societies Committee. It shall operate no additional account without that committee's prior approval. All income, including cash takings, shall be recorded and deposited into that account as soon as practicable and no later than the end of the financial year. Club income shall not be paid into a member's personal account. A member shall not retain cash takings in exchange for transferring an equivalent amount to the club account unless the Union confirms in writing that the arrangement meets its deposit and record-keeping requirements.
 
-**9.1.2** Proper books and accounts shall be kept and maintained either in written or printed form in the English language showing correctly the financial affairs of the Club/Society and the particulars usually shown in books of a like nature.
+**9.1.2** Among Club/Society members, only the President, Secretary and Treasurer may have authority to access or operate the account. This restriction does not exclude signatories required by Union regulations. No account credential shall be shared, and banking authority shall be updated promptly when an officer leaves or takes office.
 
-**9.1.3** All monies shall be deposited into total as soon as practicable after receipt thereof.
+**9.1.3** The management committee shall approve expenditure before it is incurred. Where prior approval is impracticable and expenditure is necessary to protect people or property or avoid material loss, two disinterested officers named above may authorise it, subject to ratification at the next committee meeting. Every payment shall identify its payee, amount and purpose and require the written approval of two distinct, disinterested officers named above before it is made, in addition to any bank or Union signatory requirements.
 
-**9.1.4** All amounts shall be paid by checks signed by any two (2) of the president, secretary, treasurer, or other member authorized from time to time by the management committee and/or the Clubs and Societies Administration Officer.
+**9.1.4** Every expense incurred on behalf of the Club/Society shall be supported by an itemised receipt. If a receipt is unavailable, the person who incurred the expense shall provide a statutory declaration, signed and properly witnessed, stating the transaction date, payee, amount, purpose and reason the receipt is unavailable, with any other available evidence. Committee approval does not replace this requirement. A member may be reimbursed only after providing the required evidence and obtaining written approval from two disinterested officers named above. A claimant shall not approve or authorise their own reimbursement. Where fewer than two eligible officers are available, payment shall be deferred until two can act.
 
-**9.1.5** Checks shall be crossed "not negotiable".
+**9.1.5** The Treasurer shall keep accurate records of receipts, payments, supporting documents and approvals. As soon as practicable after the end of each financial year, the Treasurer shall prepare a statement of income and expenditure, assets and liabilities. The accounts shall be audited in time for the auditor's report to be presented at the annual general meeting.
 
-**9.1.6** The management committee shall determine the amount of petty cash which shall be kept.
-
-**9.1.7** All expenditure shall be approved or ratified at a management committee meeting.
-
-**9.1.8** As soon as practicable after the end of each financial year, the treasurer shall cause to be prepared a statement containing the particulars of:
-- **(a)** The income and expenditure for the financial year just ended.
-- **(b)** The assets and liabilities at the close of that year.
-
-**9.1.9** The accounts of the Club/Society must be audited one (1) month prior to the annual general meeting.
-
-**9.1.10** The auditor must examine the statement prepared by the treasurer and present a report on it to the secretary before the next annual general meeting following the financial year for which the audit was made.
-
-**9.1.11** The income and property of the Club/Society must be used solely in promoting the Club/Society's objectives and exercising the Club/Society's powers.
+**9.1.6** The management committee shall adopt and maintain a Finance Policy by resolution. Once adopted, the policy binds committee members and any member handling Club/Society funds or seeking reimbursement. The secretary shall make the current policy available to members. The policy may set out procedures for payments, claims, record keeping and account handover but shall not vary these rules or Union requirements.
 
 ### 9.2 Custody and Handover
 
