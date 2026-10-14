@@ -110,12 +110,18 @@ the management committee shall consider whether the member's membership shall be
 
 **5.1.3** The election of officers and other members of the management committee shall take place in the following manner:
 - **(a)** any two (2) members of the Club/Society shall be at liberty to nominate any other member to serve as an officer or other member of the management committee.
-- **(b)** the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary at least fourteen (14) days before the annual general meeting at which the election is to take place.
-- **(c)** a list of candidates' names in alphabetical order, with the proposers' and seconders' names, shall be posted in a conspicuous place in the office or usual place of meeting of the Club/Society for at least seven (7) days immediately preceding the annual general meeting.
-- **(d)** balloting lists shall be prepared (if necessary) containing the names of the candidates in alphabetical order, and each member present at the annual general meeting shall be entitled to vote for any number of such candidates not exceeding the number of vacancies.
+- **(b)** the nomination, which shall be in writing and signed by the member and the member's proposer and seconder, shall be lodged with the secretary at least fourteen (14) days before the general meeting at which the election is to take place.
+- **(c)** a list of candidates' names in alphabetical order, with the proposers' and seconders' names, shall be posted in a conspicuous place in the office or usual place of meeting of the Club/Society for at least seven (7) days immediately preceding that general meeting.
+- **(d)** balloting lists shall be prepared (if necessary) containing the names of the candidates in alphabetical order.
 - **(e)** at the commencement of such meeting, nominations may be taken from the floor.
 - **(f)** any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
-- **(g)** in the case of a secret ballot, the assembly will select a returning officer, who shall be responsible for ensuring the orderly running elections.
+- **(g)** the members present shall select a returning officer who is not a candidate to conduct each secret ballot and provide a confidential means for every financial member present or represented by a valid proxy to vote in real time.
+
+**5.1.4** The elections for president, secretary and treasurer shall be determined separately. If a vice-president is to be elected, that election shall also be determined separately. Any other committee positions shall be elected together. A candidate must be a financial member when elected and meet the other eligibility requirements of these rules.
+
+**5.1.5** Where the number of candidates for an office or group of positions does not exceed the number to be filled, each candidate shall be put separately to a secret ballot offering the choices "elect" and "reopen nominations". Let E be the number of valid votes to elect and R the number to reopen nominations. A candidate is elected only if E is at least one (1) and 3E is at least 5R, equivalent to at least five-eighths (5/8) of valid votes supporting election. Abstentions are excluded from E and R. The returning officer shall announce the totals and result, but shall not disclose any member's choice.
+
+**5.1.6** Where candidates outnumber positions, each financial member present or represented by a valid proxy may vote by secret ballot for no more candidates than the number of positions to be filled. Candidates with the highest vote totals are elected, provided each has received at least one (1) vote. A tie affecting the last available position among candidates who each received at least one (1) vote shall be decided by a further secret ballot among those candidates. If the tie persists, the returning officer shall draw lots among them in the presence of the meeting to determine who is elected.
 
 **5.1.7** If no successor is elected to the office of president, secretary or treasurer at a quorate annual general meeting, the chair shall promptly notify the Clubs and Societies Committee and seek its guidance. If it requires an election at a special general meeting, nominations for the unfilled office shall reopen and the meeting shall be convened under these rules.
 
@@ -167,29 +173,23 @@ the management committee shall consider whether the member's membership shall be
 
 **5.6.1** The management committee shall meet at least once every two (2) calendar months to exercise its functions.
 
-**5.6.2** The management committee shall be called by the secretary with seven (7) days notice.
+**5.6.2** The secretary shall give each committee member at least seven (7) days' notice of an ordinary meeting by email. The notice shall state the date, time, place if any, any electronic access instructions, and business to be considered. If the secretary is unable or unwilling to act, any two (2) committee members may give the notice and convene the meeting.
 
-**5.6.3** The secretary and/or their nominee for the meeting must keep an accurate record of resolutions passed at all management committee meetings.
+**5.6.3** The secretary shall convene a special meeting on a written requisition signed by not less than one-third (1/3) of the current committee members. The requisition shall state the reasons for the meeting and the business to be considered. Each committee member shall be given at least fourteen (14) days' notice by email stating that business. If the secretary is unable or unwilling to act, any two (2) committee members may convene the meeting on the same terms. Only the business stated in the notice may be decided at a special meeting.
 
-**5.6.4** A special meeting of the management committee shall be convened by the Secretary on the requisition in writing signed by not less than one-third (1/3) of the members of the management committee, which requisition shall clearly state the reasons why such a special meeting is being convened and the nature of the business to be transacted thereat.
+**5.6.4** Quorum is the smallest whole number greater than half the number of committee members in office at the close of the last general meeting. A vacancy arising after that meeting does not reduce quorum. Only financial committee members who are present count towards quorum. A committee member who may not vote on a particular matter still counts towards quorum.
 
-**5.6.5** At every meeting of the management committee, a simple majority of 50% of members plus one (1) elected and/or appointed to the management committee as at the close of the last general meeting of the members shall constitute a quorum.
+**5.6.5** A committee member is present if attending in person or by a live electronic connection that permits the member to follow the proceedings, participate in real time and vote as business occurs, and allows identity and continuing attendance to be verified. Proxy voting is not permitted at a committee meeting.
 
-**5.6.6** Subject as previously provided in this section, the management committee may meet together and regulate its proceedings as it thinks fit.
+**5.6.6** The president shall chair each committee meeting. If the president is absent, unable or unwilling to act within ten (10) minutes after the appointed time, the vice-president, if in office and able to act, shall chair. If neither can act, the secretary shall chair; if the secretary also cannot act, the committee members present shall choose one (1) of their number to chair that meeting.
 
-**5.6.7** However, questions arising at any meeting of the management committee shall be decided by a majority of votes, and, in the case of equality of votes, the question shall be deemed to be decided in the negative.
+**5.6.7** Each committee member present has one (1) vote. Except where these rules require a higher threshold, a motion passes if more votes are cast for it than against it. Abstentions are not votes cast; a tied motion fails. A committee member shall not vote on a matter in which the member has a financial interest, and any such vote shall not be counted.
 
-**5.6.8** A member of the management committee shall not vote in respect of any matter in which the member is financially interested, or any matter arising thereout, and if the member does so vote, the member's vote shall not be counted.
+**5.6.8** The secretary, or a committee member appointed for the meeting, shall record attendance, whether quorum was present, the decisions and vote counts, and any adjournment in the minutes.
 
-**5.6.9** Not less than fourteen (14) days notice shall be given by the secretary to members of the management committee of any special meeting of the management committee.
+**5.6.9** If a material connection failure prevents a committee member present from casting a vote, the chair shall pause that vote for up to thirty (30) minutes. If participation cannot be restored, the vote shall be postponed to another meeting with the required notice. An interrupted ballot without a declared result shall be restarted; other business may continue only while quorum remains.
 
-**5.6.10** Such notice shall clearly state the nature of the business to be discussed thereat.
-
-**5.6.11** The president shall preside as chairperson at every meeting of the management committee, or if there is no president or if, at any meeting, the president is not present within ten (10) minutes after the time appointed for holding the meeting, the vice-president shall be chairperson, or if the vice-president is not present at the meeting, the members may choose one (1) of their number to be chairperson of the meeting.
-
-**5.6.12** If within half an hour from the time appointed for the commencement of a management committee meeting, a quorum is not present, the meeting, if convened upon the requisition of members of the management committee, shall lapse.
-
-**5.6.13** In any other case, it shall stand adjourned to the same day in the next week at the same time and place or to such other day and at such other time and place as the management committee may determine, and if at the adjourned meeting a quorum is not present within half an hour from the time appointed for the meeting, the meeting shall lapse.
+**5.6.10** If quorum is absent thirty (30) minutes after the appointed start or is lost and not restored within thirty (30) minutes, a meeting called on a requisition lapses. Any other meeting is adjourned to the same time and place or by the same electronic means seven (7) days later, unless all committee members agree to another date. The person who convened the meeting shall notify all committee members of the adjournment and any new access instructions. If quorum is absent thirty (30) minutes after the appointed start of the adjourned meeting, it lapses. No business may be decided while quorum is absent; decisions validly made before quorum was lost remain effective.
 
 ### 5.7 Delegation of Powers
 
@@ -199,17 +199,17 @@ the management committee shall consider whether the member's membership shall be
 
 **5.7.3** A subcommittee may elect a chairperson of its meetings.
 
-**5.7.4** If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (10) minutes after the time appointed for holding the meeting, the members present may choose one (1) of their number to be chairperson of the meeting.
+**5.7.4** If no such chairperson is elected, or if at any meeting the chairperson is not present within ten (10) minutes after the time appointed for holding the meeting, the financial members of the subcommittee present may choose one (1) of their number to be chairperson of the meeting.
 
 **5.7.5** A subcommittee may meet and adjourn as it thinks proper.
 
-**5.7.6** Questions arising at any meeting shall be determined by a majority of votes of the members present and, in the case of equality of votes, the questions shall be deemed to be decided in the negative.
+**5.7.6** Questions arising at any meeting shall be determined by a majority of votes cast by financial members of the subcommittee present and, in the case of equality of votes, the questions shall be deemed to be decided in the negative.
 
 ### 5.8 Resolutions Without Meeting
 
-**5.8.1** A minute signed by all the members of the management committee shall be valid and effective as if it had been passed at a meeting of the management committee duly convened and held.
+**5.8.1** A minute signed by every management committee member entitled to vote on the matter is valid and effective as if passed at a duly convened meeting, provided the number of signatories is at least the number required for a management committee quorum.
 
-**5.8.2** Any such resolution may consist of several documents in like form, each signed by one (1) or more members of the management committee.
+**5.8.2** Any such resolution may consist of several documents in like form, each signed by one (1) or more members of the management committee entitled to vote on the matter.
 
 ## 6. Events and Workshops
 
@@ -238,17 +238,19 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 ## 7. General Meetings
 
-### 7.1 First Annual General Meeting
+### 7.1 Meetings of Members
 
-**7.1.1** The first annual general meeting must be held within twelve (12) months after the day the Club/Society is fully affiliated.
+**7.1.1** A general meeting is a meeting of the Club/Society's members and is either an annual general meeting or a special general meeting under these rules. A meeting of the management committee under "Committee Meetings" is not a general meeting. For the purposes of these meeting rules, a financial member is a member whose membership fee currently due has been paid.
+
+**7.1.2** The first annual general meeting must be held within twelve (12) months after the day the Club/Society is fully affiliated.
 
 ### 7.2 Subsequent Annual General Meetings
 
 **7.2.1** Each subsequent annual general meeting must be held:
-- **(a)** at least once each year
+- **(a)** once each year
 - **(b)** within three (3) months after the end of the Club/Society's previous financial year.
 
-**7.2.2** The annual general meeting will be held in the month of October each year.
+**7.2.2** The annual general meeting shall first be convened in October each year. An inquorate meeting may be reconvened after October in accordance with "Quorum at General Meeting".
 
 ### 7.3 Business at Annual General Meeting
 
@@ -273,32 +275,38 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 ### 7.5 Special General Meeting
 
-**7.5.1** The secretary shall convene a special general meeting by sending out notice of the meeting within fourteen (14) days of:
-- **(a)** being directed to do so by the management committee.
-- **(b)** being given a requisition in writing signed by not less than one-third (1/3) of the members presently on the management committee or from ordinary members not less than double the number of members presently on the management committee plus one (1).
-- **(c)** being given a notice in writing of an intention to appeal against the decision of the management committee to reject an application for membership or to terminate the membership of any person.
+**7.5.1** The secretary shall send notice convening a special general meeting within fourteen (14) days after:
+- **(a)** being directed to do so by the management committee;
+- **(b)** receiving a written requisition signed by not less than one-third (1/3) of current committee members or by financial members who are not committee members numbering at least twice the number of current committee members plus one (1); or
+- **(c)** receiving written notice of an intention to appeal a decision to reject an application for membership or terminate a person's membership.
 
-**7.5.2** A request for a special general meeting shall clearly state the reasons why it is being convened and the nature of the business to be transacted thereat.
+**7.5.2** A requisition shall state the reasons for the meeting and the business proposed. Only business stated in the notice may be decided at a special general meeting.
 
 ### 7.6 Quorum at General Meeting
 
-**7.6.1** At any general meeting, the number of members required to constitute a quorum shall be 15 members.
+**7.6.1** For a general meeting, n is the number of financial members at the appointed starting time. The required quorum Q is max(3, ⌈min(n/2, 7 + √n)⌉) financial members present. In this expression, √ denotes the square root, ⌈ ⌉ rounds up to a whole number, min selects the lesser number and max selects the greater. The secretary shall record n and Q in the minutes. For example, n = 10 requires five (5) members present, n = 50 requires fifteen (15), and n = 300 requires twenty-five (25). If n is less than three (3), no general meeting can attain quorum or decide business. The limited authority of continuing committee members under "Committee Vacancies" does not reduce that quorum. Any continuing committee member shall promptly inform the Clubs and Societies Committee and seek its guidance on restoring financial membership and filling vacant offices.
+
+**7.6.2** If a general meeting has no quorum within thirty (30) minutes after its appointed start, or loses quorum for thirty (30) minutes during proceedings, it shall be adjourned. No business may be transacted without quorum. Where that meeting is an annual general meeting, the secretary shall notify the members and the Clubs and Societies Administration Officer within seven (7) days, and give notice of a reconvened annual general meeting to be held within thirty (30) days of the original meeting. The ordinary notice period applies, subject to any longer notice required for particular business. The quorum shall be calculated afresh for the reconvened meeting. If that meeting is also inquorate, the secretary shall promptly notify the members and the Clubs and Societies committee, seek its guidance and arrange another annual general meeting.
 
 ### 7.7 Notice of General Meeting
 
-**7.7.1** The secretary shall convene at least two general meetings per semester of the Club/Society by giving not less than fourteen (14) days notice of any such meeting to the members of the Club/Society.
+**7.7.1** Notice of an annual general meeting or special general meeting shall be emailed to each member at the address in the register at least fourteen (14) days before the meeting. If a special resolution is proposed, at least twenty-one (21) days' notice shall be given.
 
-**7.7.2** The manner by which such notice shall be given shall be determined by the management committee.
-
-**7.7.3** Notice of a general meeting shall clearly state the nature of the business to be discussed thereat.
+**7.7.2** The notice shall state the date, time and physical place of the meeting, any optional electronic access instructions, the business to be considered, and how a member may appoint a proxy. If elections are to be held, it shall identify the positions, their duties, the nomination process and the voting method. It shall include the text and reasons for any proposed special resolution and disclose if the meeting will be recorded. If the secretary is unable or unwilling to act, any two (2) committee members, or a sole continuing member authorised under "Committee Vacancies", may give notice and convene the meeting, subject to the same requirements.
 
 ### 7.8 Procedure at General Meeting
 
-**7.8.1** Unless otherwise provided by these rules, at every general meeting:
-- **(a)** The president shall preside as chairperson, or if there is no president, or if the president is not present within fifteen (15) minutes after the time appointed for the holding of the meeting or is unwilling to act, the vice-president shall be the chairperson, or if the vice-president is not present or is unwilling to act, then the members present shall elect one (1) of their number to be chairperson of the meeting.
-- **(b)** The chairperson shall maintain order and conduct the meeting in a proper and orderly manner.
-- **(c)** Every question, matter, or resolution shall be decided by a majority of votes of the members present.
-- **(d)** Every resolution must be minuted.
+**7.8.1** The president shall chair each general meeting. If the president is absent, unable or unwilling to act within fifteen (15) minutes after the appointed time, the vice-president, if in office and able to act, shall chair. If neither can act, the secretary shall chair; if the secretary also cannot act, the financial members present shall choose one (1) of their number to chair that meeting. The chair shall maintain order and conduct the meeting fairly.
+
+**7.8.2** A financial member is present at a general meeting only while attending in person. Electronic access may be offered so that members can follow or address the meeting, but it does not make them present for quorum or give them a direct vote. A member who does not attend in person may vote only through a valid proxy under clause 7.8.3. Subject to any restriction in these rules, a financial member present has one (1) vote and may cast a further vote for a member whom they validly represent by proxy. Except where these rules require a higher threshold, a motion passes if more votes are cast for it than against it. Abstentions are not votes cast; a tied motion fails. An election tie is resolved under clause 5.1.6.
+
+**7.8.3** A financial member may appoint one (1) other financial member as proxy for a specified general meeting by a signed written instrument, including an electronic document, delivered to the secretary or the person convening the meeting before it opens. The instrument may direct how the proxy votes on specified business. The appointment ends if the appointing member attends in person or revokes it by written notice delivered to the chair before the relevant vote. A person may hold no more than one (1) proxy in addition to their own vote. A proxy holder must attend in person and vote during the meeting; the appointing member is not present for quorum unless attending in person.
+
+**7.8.4** The chair shall confirm quorum before business begins and before each vote. An interrupted vote without a declared result shall be restarted; other business may continue only while quorum remains. A vote validly cast before a member leaves remains effective.
+
+**7.8.5** If quorum is absent thirty (30) minutes after the appointed start, or is lost during the meeting and not restored within thirty (30) minutes, the meeting shall be adjourned in accordance with clause 7.6.2. No business may be decided while quorum is absent; decisions validly made before quorum was lost remain effective. The person who convened the meeting shall give all members fresh notice of the adjourned meeting, meeting the notice period required for its business.
+
+**7.8.6** The secretary, or a financial member appointed for the meeting, shall record attendance, proxies, whether quorum was present, resolutions, vote counts, elections and adjournments in the minutes. The secretary shall retain and submit any meeting recording required by the Union.
 
 ## 8. Alteration of Rules
 
@@ -306,15 +314,11 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 **8.2** However, any amendment or addition is valid only if it is registered by the president and approved by the Clubs and Societies committee.
 
-**8.3** A special resolution is passed at a meeting if:
-- **(a)** Of the entitled members of the Club/Society who vote in person or (if proxies are allowed) by proxy at a meeting, not less than three-quarters (3/4) vote in favor of the resolution, and
-- **(b)** Any additional requirements of the constitution relating to the passing of a special resolution have been met.
+**8.3** A special resolution passes only if at least three-quarters (3/4) of the financial members entitled to vote on the matter who are present or represented by a valid proxy vote in favour and any other requirement of these rules for that resolution has been met. Abstentions are included in that number and do not count in favour.
 
-**8.4** A resolution is not to be considered to have been passed as a special resolution under clause 8.3 unless not less than twenty-one (21) days notice has been given in accordance with the rules to all of the entitled members of the Club/Society specifying the intention to propose the resolution as a special resolution.
+**8.4** A special resolution may be considered only if at least twenty-one (21) days' notice has been given to all members with the text of the proposed resolution.
 
-**8.5** At any meeting at which a special resolution is submitted, a declaration by the chairperson that the resolution has been carried is conclusive proof of the fact unless a poll is demanded.
-
-**8.6** In this section, "entitled member" means a member of the Club/Society who is entitled under the rules of the association to vote.
+**8.5** The chair shall announce the numbers voting for and against a special resolution and the number abstaining, and the secretary shall record them in the minutes. A financial member present may request a recount before the result is declared.
 
 ## 9. Finances and Property
 
@@ -354,7 +358,9 @@ For **major events and workshops**, additional detailed planning is required. A 
 
 ## 10. Dissolution
 
-**10.1** In the event of the Club/Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes that is not carried on for the profit or gain of its individual members.
+**10.1** An inquorate meeting, a delayed annual general meeting or an election that leaves a position without an elected successor does not of itself dissolve the Club/Society. Subject to the Union's power to disaffiliate the Club/Society under its rules, voluntary dissolution requires an express special resolution at a general meeting attended by at least ten (10) financial members and with the quorum required under clause 7.6.1. The notice of meeting shall state the proposed dissolution and the proposed destination of any remaining assets.
+
+**10.2** In the event of the Club/Society being dissolved, the amount that remains after such dissolution and the satisfaction of all debts and liabilities shall be transferred to any association with similar purposes that is not carried on for the profit or gain of its individual members.
 
 ## 11. Enactment
 
