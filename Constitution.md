@@ -60,6 +60,20 @@ the management committee shall consider whether the member's membership shall be
 
 **4.4.3** The register shall be open for inspection at all reasonable times by any member who previously applies to the secretary for such inspection and a copy provided for the Clubs and Societies Administration Officer each semester.
 
+### 4.5 Life Membership
+
+**4.5.1** The Club/Society may confer life membership on a person in recognition of exceptional and lasting service to the Club/Society. Any two financial members may nominate a person.
+
+**4.5.2** A nominee becomes a life member only when they have accepted in writing and their name is added to the Schedule of Life Members by an amendment made under "Alteration of Rules". The same amendment process applies to removing a name from the Schedule.
+
+**4.5.3** Life membership does not require a new application or nomination each year. A life member has the same rights and benefits as any other financial member for each year in which the annual membership fee fixed under "Membership Fees" has been paid by or for that person, subject to the other eligibility requirements of these rules. If the fee is unpaid, those rights are suspended until payment, but the person's life membership status continues.
+
+### 4.6 Schedule of Life Members
+
+**4.6.1** The following people are life members:
+- **(a)** Claudia McPherson, Founder (2022)
+- **(b)** Masham Siddiqui, President 2023-2025
+
 ## 5. Management Committee
 
 ### 5.1 Composition and Elections
