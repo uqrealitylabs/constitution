@@ -219,28 +219,9 @@ the management committee shall consider whether the member's membership shall be
 
 ## 6. Events and Workshops
 
-**6.1** All events and workshops organized by UQ Reality Labs must be approved by the management committee to ensure they align with the club’s mission and objectives.
+**6.1** The management committee shall approve each event or workshop held in the name of the Club/Society and appoint a member as Event Lead before it is held. The committee shall record its approval, the Event Lead and any conditions in its minutes. The Event Lead shall coordinate the approved activity and promptly notify the committee of material changes or incidents.
 
-**6.2** **Minimum Planning Requirements for All Events
-For every event, regardless of size, the following minimum planning must be provided to the management committee for approval:
-- **(a)** **Event Description**: A brief outline of the event, including its purpose and target audience.
-- **(b)** **Basic Budget**: An estimation of expenses (e.g., venue, catering, materials) and anticipated funding sources (if any).
-- **(c)** **Logistics Overview**: A simple plan addressing the date, time, venue, and any key logistical needs (e.g., equipment, guest speakers).
-- **(d)** **Event Promotion**: A short plan for how the event will be promoted to UQRL members and the wider community.**
-### Additional Planning for Major Events
-For **major events and workshops**, additional detailed planning is required. A **major event or workshop** is defined as any activity that meets one or more of the following criteria:
-- **(e)** **Involves participation of 20 or more attendees** or includes collaboration with external entities, such as sponsors, industry partners, or university departments.
-- **(f)** **Requires a budget** exceeding $200 AUD in total expenses, including but not limited to venue hire, catering, speaker fees, or technical resources.
-- **(g)** **Spans multiple days** or is hosted off-campus, requiring logistical coordination such as transportation, accommodation, or external venue management.
-- **(h)** **Is a flagship or cornerstone event**, such as thr annual Exhibition Night, or a high-profile workshop series that represents the club on a larger scale within the UQ community or to the public.
-
-**6.3** In addition to the minimum planning requirements above, major events must also include:
-- **(a)** **Detailed Objectives**: A clear and articulated outline of the specific goals and intended outcomes of the event or workshop.
-- **(b)** **Comprehensive Budget**: A detailed, itemised breakdown of anticipated expenses and revenue, including any sponsorships, ticket sales, or external funding.
-- **(c)** **Risk Management Plan**: A plan identifying potential risks (e.g., financial, logistical, or safety) and strategies for mitigating them.
-- **(d)** **Expected Outcomes and Metrics for Success**: A focus on the potential benefits for UQ Reality Labs members, alignment with the club’s mission, and how success will be measured (e.g., attendee feedback, engagement levels).
-
-**6.4** This process ensures that all events, whether routine or major, are structured, approved, and aligned with the club’s overall goals, with major events receiving the additional oversight and planning they require to succeed.
+**6.2** The management committee shall adopt and maintain an Event Policy by resolution and make it available to members. The policy shall govern event planning, risk controls, equipment loans and incident response. Each event shall comply with the policy, the conditions of its approval and applicable University and Union requirements.
 
 ## 7. General Meetings
 
