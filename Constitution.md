@@ -119,9 +119,9 @@ the management committee shall consider whether the member's membership shall be
 - **(f)** any informality or irregularity in the elections must be brought to the attention of the Clubs and Societies Administration Officer within fourteen (14) days of the elections.
 - **(g)** the members present shall select a returning officer who is not a candidate to conduct each secret ballot and provide a confidential means for every financial member present or represented by a valid proxy to vote in real time.
 
-**5.1.4** The elections for president, secretary and treasurer shall be determined separately. If a vice-president is to be elected, that election shall also be determined separately. Any other committee positions shall be elected together. A candidate must be a financial member when elected and meet the other eligibility requirements of these rules.
+**5.1.4** The elections for president, secretary and treasurer shall be determined separately. Any other committee positions shall be elected together. A candidate must be a financial member when elected and meet the other eligibility requirements of these rules.
 
-**5.1.5** Where the number of candidates for an office or group of positions does not exceed the number to be filled, each candidate shall be put separately to a secret ballot offering the choices "elect" and "reopen nominations". Let E be the number of valid votes to elect and R the number to reopen nominations. A candidate is elected only if E is at least one (1) and 3E is at least 5R, equivalent to at least five-eighths (5/8) of valid votes supporting election. Abstentions are excluded from E and R. The returning officer shall announce the totals and result, but shall not disclose any member's choice.
+**5.1.5** When there is only one candidate for an office, or enough positions for all candidates, each candidate shall be voted on separately by secret ballot with the choices "elect" and "do not elect". A candidate is elected only if votes to elect make up at least five in every eight valid votes cast. Abstentions do not count as votes cast, and a candidate who receives no votes is not elected. If a candidate is not elected, the position remains unfilled and shall be dealt with under these rules. The returning officer shall announce the totals and result, but shall not disclose any member's choice.
 
 **5.1.6** Where candidates outnumber positions, each financial member present or represented by a valid proxy may vote by secret ballot for no more candidates than the number of positions to be filled. Candidates with the highest vote totals are elected, provided each has received at least one (1) vote. A tie affecting the last available position among candidates who each received at least one (1) vote shall be decided by a further secret ballot among those candidates. If the tie persists, the returning officer shall draw lots among them in the presence of the meeting to determine who is elected.
 
@@ -189,7 +189,7 @@ the management committee shall consider whether the member's membership shall be
 
 **5.6.5** A committee member is present if attending in person or by a live electronic connection that permits the member to follow the proceedings, participate in real time and vote as business occurs, and allows identity and continuing attendance to be verified. Proxy voting is not permitted at a committee meeting.
 
-**5.6.6** The president shall chair each committee meeting. If the president is absent, unable or unwilling to act within ten (10) minutes after the appointed time, the vice-president, if in office and able to act, shall chair. If neither can act, the secretary shall chair; if the secretary also cannot act, the committee members present shall choose one (1) of their number to chair that meeting.
+**5.6.6** The president shall chair each committee meeting. If the president is absent, unable or unwilling to act within ten (10) minutes after the appointed time, the secretary shall chair. If the secretary also cannot act, the committee members present shall choose one (1) of their number to chair that meeting.
 
 **5.6.7** Each committee member present has one (1) vote. Except where these rules require a higher threshold, a motion passes if more votes are cast for it than against it. Abstentions are not votes cast; a tied motion fails. A committee member shall not vote on a matter in which the member has a financial interest, and any such vote shall not be counted.
 
@@ -246,11 +246,9 @@ the management committee shall consider whether the member's membership shall be
 **7.3.1** The following business must be transacted at every annual general meeting:
 - **(a)** The receiving of the statement of income and expenditure, assets, and liabilities for the last financial year prepared by the treasurer.
 - **(b)** The receiving of reports from the president and the secretary.
-- **(c)** The receiving of the auditor's report on the financial affairs of the Club/Society for the last financial year.
-- **(d)** The presenting of the audited statement to the meeting for adoption.
-- **(e)** The election of members of the management committee.
-- **(f)** The appointment of an auditor who shall be the nominee of the Union for Clubs/Societies or an independent auditor who must be a member of the Institute of Chartered Accountants in Australia or the Australian Association of Accountants or a successor to either of these bodies.
-- **(g)** The minutes of the annual general meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the meeting.
+- **(c)** The adoption of the treasurer's statement and the receiving of any audit or financial review report required by law or the Union.
+- **(d)** The election of members of the management committee.
+- **(e)** The minutes of the annual general meeting shall be submitted to the Clubs and Societies Administration Officer within seven (7) days of the meeting.
 
 ### 7.4 Recognition of Service
 
@@ -281,7 +279,7 @@ the management committee shall consider whether the member's membership shall be
 
 ### 7.8 Procedure at General Meeting
 
-**7.8.1** The president shall chair each general meeting. If the president is absent, unable or unwilling to act within fifteen (15) minutes after the appointed time, the vice-president, if in office and able to act, shall chair. If neither can act, the secretary shall chair; if the secretary also cannot act, the financial members present shall choose one (1) of their number to chair that meeting. The chair shall maintain order and conduct the meeting fairly.
+**7.8.1** The president shall chair each general meeting. If the president is absent, unable or unwilling to act within fifteen (15) minutes after the appointed time, the secretary shall chair. If the secretary also cannot act, the financial members present shall choose one (1) of their number to chair that meeting. The chair shall maintain order and conduct the meeting fairly.
 
 **7.8.2** A financial member is present at a general meeting only while attending in person. Electronic access may be offered so that members can follow or address the meeting, but it does not make them present for quorum or give them a direct vote. A member who does not attend in person may vote only through a valid proxy under clause 7.8.3. Subject to any restriction in these rules, a financial member present has one (1) vote and may cast a further vote for a member whom they validly represent by proxy. Except where these rules require a higher threshold, a motion passes if more votes are cast for it than against it. Abstentions are not votes cast; a tied motion fails. An election tie is resolved under clause 5.1.6.
 
