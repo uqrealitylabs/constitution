@@ -2,4 +2,4 @@ extends: spelling
 message: "Spelling: check '%s'."
 level: error
 filters:
-  - '(?i)^(?:uqrl|uqcs|uqu|eait|quorate|sortition|subcommittee|bona|fide|annum|aforestated|sponsorships|thereout)$'
+  - '(?i)^(?:uqrl|uqcs|uqu|eait|quorate|sortition|subcommittee|bona|fide|annum|aforestated|sponsorships|thereout|masham|siddiqui)$'
