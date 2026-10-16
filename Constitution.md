@@ -27,9 +27,9 @@
 ## 3. Aims and Objectives
 
 **3.1** The aims of the Club/Society are:
-- **(a)** To bridge the divide between academia and industry in the AR/VR/MR/XR space to provide students with pathways into emerging technology careers.
-- **(b)** To attract students with a passion for immersive technologies from across Queensland and give them the opportunity to connect with like-minded peers.
-- **(c)** To accelerate AR/VR/XR innovation by fostering an environment conducive to research, collaboration and experimental, project-based learning.
+- **(a)** To connect academic work with industry practice in AR/VR/MR/XR and help students pursue careers in these technologies.
+- **(b)** To bring together students from across Queensland who are interested in immersive technologies.
+- **(c)** To support innovation in AR/VR/XR through research, collaboration, experimentation and project-based learning.
 
 **3.2** The assets and income of the Club/Society shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the Club/Society except as bona fide compensation for services rendered or expenses incurred on behalf of the Club/Society.
 
