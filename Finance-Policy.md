@@ -21,4 +21,4 @@ This policy takes effect when adopted by resolution of the management committee 
 ## Records
 
 - The Treasurer shall record each receipt and payment in a ledger with its date, amount, purpose, payer or payee, supporting document and approvals. The Treasurer shall reconcile the ledger to bank statements monthly and report discrepancies to the committee.
-- Invoices, receipts, declarations, approvals, statements and audit records shall be kept securely and made available for the annual return and audit.
+- Invoices, receipts, declarations, approvals, statements and any audit or financial review reports shall be kept securely and made available for the annual return and any audit or financial review required by law or the Union.
