@@ -177,7 +177,7 @@ selfcheck() {
   locale="$temporary/locale.md"
   repeated="$temporary/repeated.md"
   correct="$temporary/correct.md"
-  printf 'uqrl members organise events.\n' > "$accepted"
+  printf 'uqrl members organise events with Masham Siddiqui.\n' > "$accepted"
   printf 'This zqxword is misspelled.\n' > "$spelling"
   printf 'Members organize events.\n' > "$locale"
   printf 'The members repeat the the rule.\n' > "$repeated"
@@ -190,7 +190,7 @@ selfcheck() {
 
   passed=0
   failed=0
-  if ! jq -e --arg file "$accepted" '[.[$file][]? | select(.Check == "Constitution.Spelling" and (.Message | contains("uqrl")))] | length == 0' "$results" >/dev/null; then
+  if ! jq -e --arg file "$accepted" '[.[$file][]? | select(.Check == "Constitution.Spelling")] | length == 0' "$results" >/dev/null; then
     printf 'Prose self-check failed: UQRL vocabulary\n'
     failed=$((failed + 1))
   else passed=$((passed + 1)); fi
