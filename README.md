@@ -1,7 +1,11 @@
 # Constitution
-Reality Lab's constitution
 
-# Rules
-- Never make commits to main in this repo, unless you have explicit permission - always fork/branch and make pull requests
-- Pull requests to change the contents constitution MUST be approved by T3
-- The current responsible maintainers of this repo are @tranjamin and @mashamegul
+UQ Reality Labs constitution.
+
+## Repository rules
+
+- Never make commits to main in this repo unless you have explicit permission; always use a branch and pull request.
+- Pull requests that change the contents of the constitution must be approved by T3.
+- The current responsible maintainers are @tranjamin and @mashamegul.
+
+Publication here does not establish adoption under the Club's applicable rules.
