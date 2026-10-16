@@ -50,7 +50,7 @@
 
 **4.3.3** If a member
 - **(a)** fails to comply with any of the provisions of these rules,
-- **(b)** conducts himself or herself in a manner considered to be injurious or prejudicial to the character or interests of the Club/Society,
+- **(b)** conducts themselves in a manner considered to be injurious or prejudicial to the character or interests of the Club/Society,
 
 the management committee shall consider whether the member's membership shall be terminated. The member concerned shall be given a full and fair opportunity of presenting the member's case and if the management committee resolves to terminate the membership it shall instruct the secretary to advise the member in writing accordingly.
 
