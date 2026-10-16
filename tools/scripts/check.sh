@@ -347,7 +347,8 @@ all() {
 selfcheck() {
   local temporary_bin fixture scenario content expected_status actual_status expected_pdf staging
   temporary_bin=$(mktemp -d)
-  trap 'rm -rf -- "$temporary_bin"' EXIT
+  # Capture the path before Bash drops function locals on exit
+  trap "$(printf 'rm -rf -- %q' "$temporary_bin")" EXIT
   rustc --edition=2021 -C opt-level=z -C lto=fat -C codegen-units=1 -C panic=abort -C strip=symbols tools/scripts/structure.rs -o "$temporary_bin/structure"
   "$temporary_bin/structure" selfcheck
   fixture="$temporary_bin/render"
