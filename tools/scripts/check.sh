@@ -6,6 +6,10 @@ cd "$root"
 check_dir=${CHECK_DIR:-${RUNNER_TEMP:-${TMPDIR:-/tmp}}/uqrl-constitution-checks-${UID}}
 structure_bin=${STRUCTURE_BIN:-${RUNNER_TEMP:-${TMPDIR:-/tmp}}/uqrl-constitution-structure-${UID}}
 export CHECK_DIR="$check_dir"
+structure_mode=structure
+if [[ "${CONSTITUTION_ALLOW_GAPS:-false}" == true ]]; then
+  structure_mode=draft-structure
+fi
 
 fail() {
   printf 'check: %s\n' "$*" >&2
@@ -331,7 +335,7 @@ summary() {
 all() {
   local failed=0
   prepare
-  if ! run_structure structure structure Constitution.md; then failed=1; fi
+  if ! run_structure structure "$structure_mode" Constitution.md; then failed=1; fi
   if ! run_structure drafting drafting Constitution.md; then failed=1; fi
   if ! run_prose language language; then failed=1; fi
   if ! run_structure integrity integrity Constitution.md; then failed=1; fi
@@ -341,11 +345,45 @@ all() {
 }
 
 selfcheck() {
-  local temporary_bin
+  local temporary_bin fixture scenario content expected_status actual_status expected_pdf staging
   temporary_bin=$(mktemp -d)
   trap 'rm -rf -- "$temporary_bin"' RETURN
   rustc --edition=2021 -C opt-level=z -C lto=fat -C codegen-units=1 -C panic=abort -C strip=symbols tools/scripts/structure.rs -o "$temporary_bin/structure"
   "$temporary_bin/structure" selfcheck
+  fixture="$temporary_bin/render"
+  mkdir -p "$fixture/tools/scripts" "$fixture/bin" "$fixture/dist"
+  ln -s "$fixture" "$temporary_bin/linked"
+  cp "$root/tools/scripts/render.sh" "$fixture/tools/scripts/render.sh"
+  printf '# Test constitution\n' > "$fixture/Constitution.md"
+  cat > "$fixture/bin/typst" <<'SH'
+#!/usr/bin/env bash
+printf '%s' "$RENDER_TEST_CONTENT" > "${@: -1}"
+exit "$RENDER_TEST_STATUS"
+SH
+  chmod +x "$fixture/bin/typst"
+  printf '%s' '%PDF-original' > "$fixture/dist/constitution-2000.pdf"
+  for scenario in failure invalid success; do
+    content='%PDF-replacement'
+    expected_status=0
+    expected_pdf='%PDF-original'
+    case "$scenario" in
+      failure) expected_status=17 ;;
+      invalid) content=invalid; expected_status=2 ;;
+      success) expected_pdf="$content" ;;
+    esac
+    actual_status=0
+    PATH="$fixture/bin:$PATH" PUBLICATION_YEAR=2000 \
+      RENDER_TEST_CONTENT="$content" RENDER_TEST_STATUS="$((expected_status == 17 ? 17 : 0))" \
+      "$temporary_bin/linked/tools/scripts/render.sh" dist > "$temporary_bin/render.log" 2>&1 || actual_status=$?
+    if [[ "$actual_status" != "$expected_status" || $(cat "$fixture/dist/constitution-2000.pdf") != "$expected_pdf" ]]; then
+      cat "$temporary_bin/render.log" >&2
+      fail "PDF self-check failed: $scenario"
+    fi
+    for staging in "$fixture/dist"/.render.*; do
+      [[ ! -e "$staging" ]] || fail "PDF self-check left a staging directory: $scenario"
+    done
+  done
+  printf 'PDF self-check: 3 passed, 0 failed\n'
   "$root/tools/scripts/prose.sh" selfcheck
 }
 
@@ -358,11 +396,7 @@ case "${1:-}" in
   prepare) [[ "$#" == 1 ]] || usage; prepare ;;
   structure)
     [[ "$#" == 1 ]] || usage
-    if [[ "${CONSTITUTION_ALLOW_GAPS:-false}" == true ]]; then
-      run_structure structure draft-structure Constitution.md
-    else
-      run_structure structure structure Constitution.md
-    fi
+    run_structure structure "$structure_mode" Constitution.md
     ;;
   drafting) [[ "$#" == 1 ]] || usage; run_structure drafting drafting Constitution.md ;;
   language) [[ "$#" == 1 ]] || usage; run_prose language language ;;

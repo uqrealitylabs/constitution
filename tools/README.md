@@ -15,3 +15,8 @@ The PDF name uses the UTC publication year; `PUBLICATION_YEAR` and
 Rust checks structure, references, governance and drafting; Vale checks spelling and repetition.
 Strict clause checks activate when the source gains canonical clause numbers.
 Vale's required style files are in `config/Constitution/`.
+
+Set `CONSTITUTION_ALLOW_GAPS=true` for a topic draft with intentional numbering
+gaps; both `structure` and `all` honour this setting. Use strict checks for `final`.
+Run `./tools/scripts/check.sh selfcheck` to check the validators and verify that
+failed or invalid PDF builds preserve the previous PDF and remove temporary files.
