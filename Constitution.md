@@ -24,7 +24,7 @@
 - **(b)** any University of Queensland academic staff member
 - **(c)** any other members of the University or wider community interested in Club/Society's activities
 
-**4.1.2** An eligible person becomes a member when the Club/Society receives that person's annual membership fee. The date of receipt is the person's date of admission. A person whose membership was terminated by the management committee under "Termination of Membership" may rejoin only with that committee's approval and payment of the fee. A decision by the management committee that an applicant is ineligible, or a refusal to approve readmission, is a rejection of a membership application and may be appealed under clauses 4.3.4 to 4.3.7.
+**4.1.2** An eligible person becomes a member when the Club/Society receives that person's membership fee. The date of receipt is the person's date of admission. A person whose membership was terminated by the management committee under "Termination of Membership" may rejoin only with that committee's approval and payment of the fee. A decision by the management committee that an applicant is ineligible, or a refusal to approve readmission, is a rejection of a membership application and may be appealed under clauses 4.3.4 to 4.3.7.
 
 **4.1.3** The Club/Society shall have at least thirty (30) financial members.
 
@@ -34,11 +34,13 @@
 
 ### 4.2 Membership Fees
 
-**4.2.1** The membership fees shall be such sum, as the members shall from time to time at any general meeting so determine, but shall not be less than two (2) dollars per member per annum.
+**4.2.1** The members at a general meeting shall determine the membership fee, which shall not be less than two (2) dollars per member for each two-semester membership period.
 
-**4.2.2** The annual fee is payable on joining and for each renewal. For a person eligible under "Membership", membership and voting rights begin when the Club/Society receives the fee. A fee received in a calendar year keeps membership current until 11:59 pm Brisbane time on the last day of February in the following calendar year, unless membership ends earlier under these rules. This expiry applies equally to fees paid early or late in the calendar year.
+**4.2.2** The membership fee is payable on joining and for each renewal. For a person eligible under "Membership", membership and voting rights begin when the Club/Society receives the fee. On joining, payment covers the remainder of the current membership semester and the following membership semester, unless membership ends earlier under these rules.
 
-**4.2.3** A fee received in a later calendar year before the current expiry renews membership without interruption until 11:59 pm Brisbane time on the last day of February in the calendar year after that payment. No renewal fee is due in the same calendar year as the previous payment. If no renewal fee is received before expiry, membership and voting rights end at expiry; a later payment from an eligible person starts a new period of membership from receipt. Only a member whose membership is current is a financial member and may vote or be counted for quorum under these rules. The secretary shall notify each member whose membership is due to expire that February of the expiry date and means of renewal at least fourteen (14) days before the end of February.
+**4.2.3** For these rules, each membership semester begins on the date of the Union's first Market Day for the corresponding University of Queensland teaching semester at the St Lucia campus. If no Market Day is scheduled for that semester at that campus, it begins on the first day of Week 0, meaning the Monday of the week immediately before the first week of classes in the University's published academic calendar. Each membership semester ends at 11:59 pm Brisbane time on the day before the next membership semester begins.
+
+**4.2.4** A renewal fee received before expiry extends the current membership by two membership semesters without interruption. If no renewal fee is received before expiry, membership and voting rights end at expiry; a later payment from an eligible person starts a new period under clause 4.2.2. Only a member whose membership is current is a financial member and may vote or be counted for quorum under these rules. The secretary shall notify each member of the expiry date and means of renewal at least fourteen (14) days before expiry.
 
 ### 4.3 Termination of Membership
 
@@ -54,7 +56,7 @@ the management committee shall consider whether the member's membership shall be
 
 **4.3.4** If the management committee rejects an application for membership, including a request to rejoin under clause 4.1.2, or resolves to terminate membership under clause 4.3.3, the secretary shall notify the person in writing within seven (7) days. The notice shall state the decision, its reasons, the date it takes effect and the person's right to appeal. A termination shall not take effect before the notice is sent, and an appeal does not suspend it.
 
-**4.3.5** The person may appeal by giving written notice to the secretary, or the committee members acting under clause 4.3.7, within one (1) month after receiving the notice under clause 4.3.4. The secretary shall give notice convening a special general meeting under clause 7.5.1 within fourteen (14) days after receiving the appeal and arrange for the meeting to be held within three (3) months after receipt.
+**4.3.5** The person may appeal by giving written notice to the secretary, or the committee members acting under clause 4.3.7, within fourteen (14) days after receiving the notice under clause 4.3.4. The secretary shall give notice convening a special general meeting under clause 7.5.1 within fourteen (14) days after receiving the appeal and arrange for the meeting to be held within three (3) months after receipt.
 
 **4.3.6** At the meeting, the appellant and the management committee shall each have a reasonable opportunity to make written submissions and address the members. The appellant may attend and speak even if they are no longer a member, but shall count towards quorum or vote only if otherwise entitled under these rules. The appeal shall be decided by a majority of valid votes cast by members entitled to vote at the meeting; a tied vote upholds the management committee's decision.
 
