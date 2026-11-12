@@ -1,0 +1,14 @@
+extends: substitution
+message: "Use Australian spelling '%s' instead of '%s'."
+level: error
+ignorecase: true
+nonword: true
+swap:
+  '\bauthorize\b': 'authorise'
+  '\bauthorized\b': 'authorised'
+  '\bcenter\b': 'centre'
+  '\bcolor\b': 'colour'
+  '\bfavor\b': 'favour'
+  '\bfavorite\b': 'favourite'
+  '\borganize\b': 'organise'
+  '\borganized\b': 'organised'
