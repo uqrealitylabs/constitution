@@ -6,12 +6,30 @@
 
 **1.2** The Club/Society shall be an associated body of the University of Queensland Union in the category of Faculty/Departmental in EAIT.
 
+## 2. Definitions and Interpretation
+
+**2.1** In these rules:
+- **(a)** **member** means a person who has joined under "Membership" and whose membership has not ended under these rules.
+- **(b)** **financial member** means a member who has paid all membership fees then due under these rules.
+- **(c)** **entitled member** means a financial member who is permitted to vote on the matter under these rules.
+- **(d)** **ordinary member** means a member who is not a member of the management committee.
+- **(e)** **management committee** means the committee constituted under "Composition and Elections", including its elected members and members appointed to fill casual vacancies.
+- **(f)** **subcommittee** means a committee formed under "Delegation of Powers" that may exercise only the powers delegated to it.
+- **(g)** **Clubs and Societies committee** means the University of Queensland Union's Clubs and Societies Committee.
+- **(h)** **officer** means a person holding an office established under "Composition and Elections".
+
+**2.2** Where these rules require a stated proportion of persons or votes, any fraction is rounded up to the next whole number. Only valid votes cast by persons entitled to vote on the matter are counted. A simple majority requires more than half of those votes.
+
+**2.3** An abstention is not a vote cast, but the abstaining member remains present for quorum. Where a threshold is expressed as a proportion of members present, members who abstain remain in the count of members present. A member prohibited from voting on a matter remains present for quorum but casts no vote on that matter.
+
+**2.4** A quorum must be present when a meeting begins and whenever business is transacted. If quorum is lost during proceedings, business shall pause until it is restored. A member represented only by a proxy is not present for quorum.
+
 ## 3. Aims and Objectives
 
 **3.1** The aims of the Club/Society are:
-- **(a)** To bridge the divide between academia and industry in the AR/VR/MR/XR space to provide students with pathways into emerging technology careers.
-- **(b)** To attract students with a passion for immersive technologies from across Queensland and give them the opportunity to connect with like-minded peers.
-- **(c)** To accelerate AR/VR/XR innovation by fostering an environment conducive to research, collaboration and experimental, project-based learning.
+- **(a)** To connect academic work with industry practice in AR/VR/MR/XR and help students pursue careers in these technologies.
+- **(b)** To bring together students from across Queensland who are interested in immersive technologies.
+- **(c)** To support innovation in AR/VR/XR through research, collaboration, experimentation and project-based learning.
 
 **3.2** The assets and income of the Club/Society shall be applied solely in furtherance of its above-mentioned objects and no portion shall be distributed directly or indirectly to the members of the Club/Society except as bona fide compensation for services rendered or expenses incurred on behalf of the Club/Society.
 
